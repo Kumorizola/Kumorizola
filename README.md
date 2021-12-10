@@ -56,4 +56,20 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 234 on (8/11/2021)
+- 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 233 on (8/11/2021)
+- 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 233 on (8/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 7 on (7/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 6 on (7/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 5 on (7/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 4 on (7/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 3 on (7/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 2 on (7/11/2021)
+- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 1 on (7/11/2021)
+- 📺 Watched [Odd Taxi](https://myanimelist.net/anime/46102) Episode 5 on (6/11/2021)
+- 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 8 on (6/11/2021)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/45576) Episode 10 on (6/11/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 30 on (30/10/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 29 on (30/10/2021)
+
 <!-- MAL_ACTIVITY:end -->
