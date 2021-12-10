@@ -56,4 +56,4 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-<!-- MAL_ACTIVITY:end-->
+<!-- MAL_ACTIVITY:end -->
