@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi 👋, I'm Kumo</h1>
 <h3 align="center">Sing wis lunga lalekno, sing durung teko entenono, sing wis ono syukurono.</h3>
-
-- 📫 How to reach me **Discord : Kumori#5882**
 
 ![Discord](https://discord.c99.nl/widget/theme-3/761213268009943051.png)
 <details>
