@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumo</h1>
-<h3 align="left">Kuat lakoni, ora kuat tinggal ngopi.</h3>
+<h3 align="left">Kuat lakoni, ora kuat tinggal ngopi ☕.</h3>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/761213268009943051.png)
 <details>
