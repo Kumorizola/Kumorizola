@@ -1,4 +1,3 @@
-<h2 align="center"> <img src="https://media.discordapp.net/attachments/918405470073520168/919220018355523584/ezgif.com-gif-maker_1.gif">
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">Kuat lakoni, ora kuat tinggal ngopi ☕.</h3>
 
@@ -71,3 +70,5 @@
 
 <!-- MAL_ACTIVITY:end -->
 
+
+<h2 align="left"> <img src="https://media.discordapp.net/attachments/918405470073520168/919220018355523584/ezgif.com-gif-maker_1.gif">
