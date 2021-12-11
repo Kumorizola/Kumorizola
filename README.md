@@ -62,7 +62,7 @@
 - 📖 Read [Solo Leveling](https://myanimelist.net/manga/121496) Chapter 176 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 34 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 33 on (11/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 32 on (11/11/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 32 on (10/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 31 on (10/11/2021)
 - 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 9 on (10/11/2021)
 - 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 234 on (8/11/2021)
