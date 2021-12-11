@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kumo</h1>
 <h3 align="center">Kuat lakoni, ora kuat tinggal ngopi ☕.</h3>
 
+- 🌐 MyAnimeList : [Kumorizola](https://myanimelist.net/profile/Kumorizola)
+
 ![Discord](https://discord.c99.nl/widget/theme-3/761213268009943051.png)
 <details>
       <summary>More About Contacting Me</summary>
@@ -51,7 +53,6 @@
             alt="react" width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
       
-- 🌐 MyAnimeList : [Kumorizola](https://myanimelist.net/profile/Kumorizola)
 </details>
 
 
