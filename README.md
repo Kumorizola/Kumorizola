@@ -53,21 +53,21 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 36 on (11/11/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 35 on (11/11/2021)
+- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 10 on (11/11/2021)
+- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 9 on (11/11/2021)
+- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 8 on (11/11/2021)
+- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 7 on (11/11/2021)
+- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 6 on (11/11/2021)
+- 📖 Read [Solo Leveling](https://myanimelist.net/manga/121496) Chapter 176 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 34 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 33 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 32 on (11/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 31 on (11/11/2021)
-- 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 9 on (11/11/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 31 on (10/11/2021)
+- 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 9 on (10/11/2021)
 - 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 234 on (8/11/2021)
 - 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 233 on (8/11/2021)
-- 📖 Read [Tokyo卍Revengers](https://myanimelist.net/manga/104565) Chapter 233 on (8/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 7 on (7/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 6 on (7/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 5 on (7/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 4 on (7/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 3 on (7/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 2 on (7/11/2021)
-- 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 1 on (7/11/2021)
 
 <!-- MAL_ACTIVITY:end -->
 
