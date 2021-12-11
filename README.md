@@ -44,6 +44,8 @@
 <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 34 on (11/11/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 33 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 32 on (11/11/2021)
 - 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 31 on (11/11/2021)
 - 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 9 on (11/11/2021)
@@ -57,7 +59,5 @@
 - 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 3 on (7/11/2021)
 - 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 2 on (7/11/2021)
 - 📖 Read [Karakai Jouzu no (Moto) Takagi-san](https://myanimelist.net/manga/108187) Chapter 1 on (7/11/2021)
-- 📺 Watched [Odd Taxi](https://myanimelist.net/anime/46102) Episode 5 on (6/11/2021)
-- 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 8 on (6/11/2021)
 
 <!-- MAL_ACTIVITY:end -->
