@@ -43,32 +43,8 @@
             src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere pro" width="40" height="40"/> </a>
             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img 
             src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
-                                                                                               
       
-</details>
 
-
-<h2> My Recent MAL Activity</h2>
-<!-- MAL_ACTIVITY:start -->
-
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 36 on (11/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 35 on (11/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 34 on (10/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 33 on (10/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 32 on (10/11/2021)
-- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 31 on (10/11/2021)
-- 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 9 on (10/11/2021)
-- 📺 Watched [Odd Taxi](https://myanimelist.net/anime/46102) Episode 5 on (6/11/2021)
-- 📺 Watched [Ousama Ranking](https://myanimelist.net/anime/40834) Episode 8 on (6/11/2021)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://myanimelist.net/anime/45576) Episode 10 on (6/11/2021)
-- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 10 on (11/11/2021)
-- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 9 on (11/11/2021)
-- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 8 on (11/11/2021)
-- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 7 on (11/11/2021)
-- 📖 Read [Gokushufudou](https://myanimelist.net/manga/112922) Chapter 6 on (11/11/2021)
-
-<!-- MAL_ACTIVITY:end -->
-
-
+ </details>
+  
 <h2 align="left"> <img src="https://media.discordapp.net/attachments/918405470073520168/919220018355523584/ezgif.com-gif-maker_1.gif">
