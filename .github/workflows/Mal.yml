@@ -13,6 +13,7 @@ jobs:
       - name: MyAnimeList readme workflow
         uses: MoonLGH/MAL-autoreadme@v2
         with:
+          useScraping: true
           username: "Kumorizola"
           limit: "15"
           readme_path: "Kumorizola/Kumorizola"
