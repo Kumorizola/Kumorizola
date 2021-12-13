@@ -44,7 +44,12 @@
             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img 
             src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
       
-
  </details>
+ 
+ <h2> My Recent MAL Activity</h2>
+<!-- MAL_ACTIVITY:start -->
+
+<!-- MAL_ACTIVITY:end -->
+
   
 <h2 align="left"> <img src="https://media.discordapp.net/attachments/918405470073520168/919220018355523584/ezgif.com-gif-maker_1.gif">
