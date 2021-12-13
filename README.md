@@ -49,6 +49,22 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 46 on (13/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 45 on (13/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 44 on (13/12/2021)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://myanimelist.net/anime/48926) Episode 10 on (12/12/2021)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://myanimelist.net/anime/48926) Episode 9 on (12/12/2021)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://myanimelist.net/anime/48926) Episode 8 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 43 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 42 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 41 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 40 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 39 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 38 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 37 on (12/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 36 on (11/12/2021)
+- 📺 Watched [Hunter x Hunter (2011)](https://myanimelist.net/anime/11061) Episode 35 on (11/12/2021)
+
 <!-- MAL_ACTIVITY:end -->
 
   
