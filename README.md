@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 47 on (10 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 47 on (11 hours ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 46 on (Yesterday, 6:08 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 45 on (Yesterday, 6:08 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 44 on (Yesterday, 6:08 AM)
