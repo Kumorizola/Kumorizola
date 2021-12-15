@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 2 on (2 hours ago)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 1 on (2 hours ago)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (2 hours ago)
+- 📺 Watched [Fruits Basket 1st Season](https://MyAnimeList.net/anime.php?id=38680) Episode 25 on (13 minutes ago)
+- 📺 Watched [Fruits Basket 2nd Season](https://MyAnimeList.net/anime.php?id=40417) Episode 25 on (13 minutes ago)
+- 📺 Watched [Violet Evergarden](https://MyAnimeList.net/anime.php?id=33352) Episode 13 on (15 minutes ago)
+- 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 3 on (16 minutes ago)
+- 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 2 on (16 minutes ago)
+- 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 1 on (16 minutes ago)
+- 📺 Watched [Sen to Chihiro no Kamikakushi](https://MyAnimeList.net/anime.php?id=199) Episode 1 on (17 minutes ago)
+- 📺 Watched [Violet Evergarden Movie](https://MyAnimeList.net/anime.php?id=37987) Episode 1 on (19 minutes ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 2 on (3 hours ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 1 on (3 hours ago)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (3 hours ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 47 on (Yesterday, 1:35 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 46 on (Dec 13, 6:08 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 45 on (Dec 13, 6:08 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 44 on (Dec 13, 6:08 AM)
-- 📖 Read [Dr. Stone](https://MyAnimeList.net/manga.php?id=103897) Chapter 212 on (Dec 13, 8:09 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 10 on (Dec 12, 7:41 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 9 on (Dec 12, 7:41 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 8 on (Dec 12, 7:41 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 43 on (Dec 12, 7:41 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 42 on (Dec 12, 7:41 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 41 on (Dec 12, 7:41 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 40 on (Dec 12, 6:20 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
