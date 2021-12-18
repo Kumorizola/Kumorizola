@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 10 on (9 hours ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 10 on (10 hours ago)
 - 📺 Watched [Fruits Basket 1st Season](https://MyAnimeList.net/anime.php?id=38680) Episode 25 on (Dec 15, 1:05 AM)
 - 📺 Watched [Fruits Basket 2nd Season](https://MyAnimeList.net/anime.php?id=40417) Episode 25 on (Dec 15, 1:04 AM)
 - 📺 Watched [Violet Evergarden](https://MyAnimeList.net/anime.php?id=33352) Episode 13 on (Dec 15, 1:03 AM)
