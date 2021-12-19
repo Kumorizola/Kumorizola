@@ -49,6 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 50 on (24 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 49 on (24 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 48 on (24 minutes ago)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 10 on (Today, 1:35 AM)
 - 📺 Watched [Fruits Basket 1st Season](https://MyAnimeList.net/anime.php?id=38680) Episode 25 on (Dec 15, 1:05 AM)
 - 📺 Watched [Fruits Basket 2nd Season](https://MyAnimeList.net/anime.php?id=40417) Episode 25 on (Dec 15, 1:04 AM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 2 on (Dec 14, 10:11 PM)
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 1 on (Dec 14, 10:11 PM)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Dec 14, 10:11 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 47 on (Dec 14, 1:35 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 46 on (Dec 13, 6:08 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 45 on (Dec 13, 6:08 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
