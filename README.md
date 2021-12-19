@@ -49,9 +49,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 50 on (11 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 49 on (11 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 48 on (11 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 54 on (46 seconds ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 53 on (47 seconds ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 52 on (48 seconds ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 51 on (49 seconds ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 50 on (Yesterday, 6:54 PM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 49 on (Yesterday, 6:54 PM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 48 on (Yesterday, 6:54 PM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 10 on (Yesterday, 1:35 AM)
 - 📺 Watched [Fruits Basket 1st Season](https://MyAnimeList.net/anime.php?id=38680) Episode 25 on (Dec 15, 1:05 AM)
 - 📺 Watched [Fruits Basket 2nd Season](https://MyAnimeList.net/anime.php?id=40417) Episode 25 on (Dec 15, 1:04 AM)
@@ -60,10 +64,6 @@
 - 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 2 on (Dec 15, 1:01 AM)
 - 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 1 on (Dec 15, 1:01 AM)
 - 📺 Watched [Sen to Chihiro no Kamikakushi](https://MyAnimeList.net/anime.php?id=199) Episode 1 on (Dec 15, 1:00 AM)
-- 📺 Watched [Violet Evergarden Movie](https://MyAnimeList.net/anime.php?id=37987) Episode 1 on (Dec 15, 12:59 AM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 2 on (Dec 14, 10:11 PM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 1 on (Dec 14, 10:11 PM)
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 11 on (Dec 14, 10:11 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
