@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 3 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 61 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 60 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 59 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 58 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 57 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 56 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 55 on (15 minutes ago)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=45576) Episode 12 on (17 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 54 on (Today, 7:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 53 on (Today, 7:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 52 on (Today, 7:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 51 on (Today, 7:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 50 on (Yesterday, 6:54 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 49 on (Yesterday, 6:54 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 48 on (Yesterday, 6:54 PM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 10 on (Yesterday, 1:35 AM)
-- 📺 Watched [Fruits Basket 1st Season](https://MyAnimeList.net/anime.php?id=38680) Episode 25 on (Dec 15, 1:05 AM)
-- 📺 Watched [Fruits Basket 2nd Season](https://MyAnimeList.net/anime.php?id=40417) Episode 25 on (Dec 15, 1:04 AM)
-- 📺 Watched [Violet Evergarden](https://MyAnimeList.net/anime.php?id=33352) Episode 13 on (Dec 15, 1:03 AM)
-- 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 3 on (Dec 15, 1:01 AM)
-- 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 2 on (Dec 15, 1:01 AM)
-- 📺 Watched [Cowboy Bebop](https://MyAnimeList.net/anime.php?id=1) Episode 1 on (Dec 15, 1:01 AM)
-- 📺 Watched [Sen to Chihiro no Kamikakushi](https://MyAnimeList.net/anime.php?id=199) Episode 1 on (Dec 15, 1:00 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
