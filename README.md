@@ -49,10 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 65 on (Today, 8:52 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 64 on (Today, 6:45 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 63 on (Today, 6:45 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 62 on (Today, 6:45 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 65 on (Yesterday, 8:52 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 64 on (Yesterday, 6:45 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 63 on (Yesterday, 6:45 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 62 on (Yesterday, 6:45 AM)
 - 📺 Watched [Dororo](https://MyAnimeList.net/anime.php?id=37520) Episode 24 on (Dec 20, 5:48 PM)
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 3 on (Dec 19, 11:01 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 61 on (Dec 19, 11:01 PM)
