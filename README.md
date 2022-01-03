@@ -49,11 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 68 on (5 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 67 on (Today, 1:02 AM)
-- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 179 on (Today, 12:27 AM)
-- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 178 on (Today, 12:27 AM)
-- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 177 on (Today, 12:27 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 68 on (6 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 67 on (Yesterday, 1:02 AM)
+- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 179 on (Yesterday, 12:27 AM)
+- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 178 on (Yesterday, 12:27 AM)
+- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 177 on (Yesterday, 12:27 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 66 on (Dec 31, 2021 3:38 AM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 11 on (Dec 26, 2021 5:39 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 65 on (Dec 22, 2021 8:52 AM)
