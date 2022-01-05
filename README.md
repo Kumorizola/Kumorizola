@@ -49,9 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 71 on (46 minutes ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 70 on (46 minutes ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 69 on (46 minutes ago)
+- 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 1 on (15 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 71 on (1 hour ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 70 on (1 hour ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 69 on (1 hour ago)
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 5 on (2 hours ago)
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 4 on (2 hours ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 68 on (Jan 2, 6:33 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 11 on (Dec 26, 2021 5:39 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 65 on (Dec 22, 2021 8:52 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 64 on (Dec 22, 2021 6:45 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 63 on (Dec 22, 2021 6:45 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
