@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 5 on (6 minutes ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 4 on (6 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 68 on (Jan 2, 6:33 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 67 on (Jan 2, 1:02 AM)
 - 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 179 on (Jan 2, 12:27 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 62 on (Dec 22, 2021 6:45 AM)
 - 📺 Watched [Dororo](https://MyAnimeList.net/anime.php?id=37520) Episode 24 on (Dec 20, 2021 5:48 PM)
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 3 on (Dec 19, 2021 11:01 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 61 on (Dec 19, 2021 11:01 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 60 on (Dec 19, 2021 11:01 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
