@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (4 minutes ago)
+- 📺 Watched [Non Non Biyori Nonstop](https://MyAnimeList.net/anime.php?id=39808) Episode 1 on (12 minutes ago)
 - 📺 Watched [Overlord III](https://MyAnimeList.net/anime.php?id=37675) Episode 13 on (Today, 5:39 AM)
 - 📺 Watched [Overlord II](https://MyAnimeList.net/anime.php?id=35073) Episode 13 on (Today, 5:38 AM)
 - 📺 Watched [Overlord](https://MyAnimeList.net/anime.php?id=29803) Episode 13 on (Today, 5:38 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 67 on (Jan 2, 1:02 AM)
 - 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 179 on (Jan 2, 12:27 AM)
 - 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 178 on (Jan 2, 12:27 AM)
-- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 177 on (Jan 2, 12:27 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 66 on (Dec 31, 2021 3:38 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
