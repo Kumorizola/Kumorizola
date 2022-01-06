@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (2 hours ago)
-- 📺 Watched [Non Non Biyori Nonstop](https://MyAnimeList.net/anime.php?id=39808) Episode 1 on (2 hours ago)
-- 📺 Watched [Overlord III](https://MyAnimeList.net/anime.php?id=37675) Episode 13 on (Today, 5:39 AM)
-- 📺 Watched [Overlord II](https://MyAnimeList.net/anime.php?id=35073) Episode 13 on (Today, 5:38 AM)
-- 📺 Watched [Overlord](https://MyAnimeList.net/anime.php?id=29803) Episode 13 on (Today, 5:38 AM)
-- 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 1 on (Yesterday, 7:03 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 71 on (Yesterday, 5:51 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 70 on (Yesterday, 5:51 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 69 on (Yesterday, 5:51 PM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 5 on (Yesterday, 4:57 PM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 4 on (Yesterday, 4:57 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 68 on (Jan 2, 6:33 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 67 on (Jan 2, 1:02 AM)
-- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 179 on (Jan 2, 12:27 AM)
-- 📖 Read [Solo Leveling](https://MyAnimeList.net/manga.php?id=121496) Chapter 178 on (Jan 2, 12:27 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 74 on (39 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 73 on (39 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 72 on (39 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 71 on (39 minutes ago)
+- 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 3 on (40 minutes ago)
+- 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 2 on (40 minutes ago)
+- 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (3 hours ago)
+- 📺 Watched [Non Non Biyori Nonstop](https://MyAnimeList.net/anime.php?id=39808) Episode 1 on (3 hours ago)
+- 📺 Watched [Overlord III](https://MyAnimeList.net/anime.php?id=37675) Episode 13 on (Yesterday, 5:39 AM)
+- 📺 Watched [Overlord II](https://MyAnimeList.net/anime.php?id=35073) Episode 13 on (Yesterday, 5:38 AM)
+- 📺 Watched [Overlord](https://MyAnimeList.net/anime.php?id=29803) Episode 13 on (Yesterday, 5:38 AM)
+- 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 1 on (Jan 4, 7:03 PM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 71 on (Jan 4, 5:51 PM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 70 on (Jan 4, 5:51 PM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 69 on (Jan 4, 5:51 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
