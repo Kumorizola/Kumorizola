@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (4 minutes ago)
-- 📺 Watched [Non Non Biyori Nonstop](https://MyAnimeList.net/anime.php?id=39808) Episode 1 on (12 minutes ago)
+- 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (1 hour ago)
+- 📺 Watched [Non Non Biyori Nonstop](https://MyAnimeList.net/anime.php?id=39808) Episode 1 on (1 hour ago)
 - 📺 Watched [Overlord III](https://MyAnimeList.net/anime.php?id=37675) Episode 13 on (Today, 5:39 AM)
 - 📺 Watched [Overlord II](https://MyAnimeList.net/anime.php?id=35073) Episode 13 on (Today, 5:38 AM)
 - 📺 Watched [Overlord](https://MyAnimeList.net/anime.php?id=29803) Episode 13 on (Today, 5:38 AM)
