@@ -49,9 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Mob Psycho 100](https://MyAnimeList.net/anime.php?id=32182) Episode 12 on (7 hours ago)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 12 on (Yesterday, 6:46 PM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 1 on (Yesterday, 6:46 PM)
+- 📺 Watched [Mob Psycho 100](https://MyAnimeList.net/anime.php?id=32182) Episode 12 on (8 hours ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 12 on (Jan 10, 6:46 PM)
+- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 1 on (Jan 10, 6:46 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 74 on (Jan 5, 11:42 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 73 on (Jan 5, 11:42 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 72 on (Jan 5, 11:42 PM)
