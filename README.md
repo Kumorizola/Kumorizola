@@ -49,6 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 77 on (34 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 78 on (34 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 77 on (34 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 76 on (34 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 75 on (34 minutes ago)
 - 📺 Watched [Mob Psycho 100](https://MyAnimeList.net/anime.php?id=32182) Episode 12 on (Yesterday, 4:16 PM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 12 on (Jan 10, 6:46 PM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 1 on (Jan 10, 6:46 PM)
@@ -59,11 +64,6 @@
 - 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 3 on (Jan 5, 11:42 PM)
 - 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 2 on (Jan 5, 11:42 PM)
 - 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (Jan 5, 9:14 PM)
-- 📺 Watched [Non Non Biyori Nonstop](https://MyAnimeList.net/anime.php?id=39808) Episode 1 on (Jan 5, 9:06 PM)
-- 📺 Watched [Overlord III](https://MyAnimeList.net/anime.php?id=37675) Episode 13 on (Jan 5, 5:39 AM)
-- 📺 Watched [Overlord II](https://MyAnimeList.net/anime.php?id=35073) Episode 13 on (Jan 5, 5:38 AM)
-- 📺 Watched [Overlord](https://MyAnimeList.net/anime.php?id=29803) Episode 13 on (Jan 5, 5:38 AM)
-- 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 1 on (Jan 4, 7:03 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
