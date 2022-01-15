@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Odd Taxi](https://MyAnimeList.net/anime.php?id=46102) Episode 2 on (57 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 77 on (Jan 12, 6:44 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 78 on (Jan 12, 6:44 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 77 on (Jan 12, 6:44 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 71 on (Jan 5, 11:42 PM)
 - 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 3 on (Jan 5, 11:42 PM)
 - 📺 Watched [Sora yori mo Tooi Basho](https://MyAnimeList.net/anime.php?id=35839) Episode 2 on (Jan 5, 11:42 PM)
-- 📺 Watched [Non Non Biyori Repeat](https://MyAnimeList.net/anime.php?id=23623) Episode 1 on (Jan 5, 9:14 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
