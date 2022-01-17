@@ -49,6 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 89 on (35 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 88 on (35 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 87 on (36 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 86 on (36 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 85 on (Yesterday, 2:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 84 on (Yesterday, 2:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 83 on (Yesterday, 2:16 AM)
@@ -60,10 +64,6 @@
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 13 on (Jan 15, 7:43 PM)
 - 📺 Watched [Odd Taxi](https://MyAnimeList.net/anime.php?id=46102) Episode 2 on (Jan 15, 7:30 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 77 on (Jan 12, 6:44 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 78 on (Jan 12, 6:44 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 77 on (Jan 12, 6:44 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 76 on (Jan 12, 6:44 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 75 on (Jan 12, 6:44 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
