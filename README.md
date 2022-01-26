@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 110 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 109 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 108 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 107 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 106 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 105 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 104 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 103 on (3 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 102 on (3 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 101 on (Jan 23, 11:30 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 100 on (Jan 23, 11:30 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 99 on (Jan 23, 11:30 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 98 on (Jan 23, 11:30 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 97 on (Jan 23, 11:30 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 96 on (Jan 19, 2:39 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 95 on (Jan 19, 2:39 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 94 on (Jan 19, 2:39 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 93 on (Jan 19, 2:39 AM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 2 on (Jan 18, 10:37 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 92 on (Jan 17, 6:53 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 91 on (Jan 17, 6:53 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 90 on (Jan 17, 6:53 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 89 on (Jan 17, 2:39 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 88 on (Jan 17, 2:39 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
