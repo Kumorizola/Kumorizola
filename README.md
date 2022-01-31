@@ -49,12 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 116 on (12 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 115 on (12 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 114 on (12 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 113 on (12 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 112 on (12 hours ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 111 on (12 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 116 on (Today, 1:29 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 115 on (Today, 1:29 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 114 on (Today, 1:29 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 113 on (Today, 1:29 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 112 on (Today, 1:29 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 111 on (Today, 1:29 AM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 4 on (Today, 12:13 AM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 3 on (Today, 12:13 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 110 on (Jan 25, 9:11 PM)
