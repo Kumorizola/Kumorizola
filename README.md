@@ -49,12 +49,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 119 on (1 hour ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 118 on (1 hour ago)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 117 on (1 hour ago)
-- 📖 Read [One Punch-Man](https://MyAnimeList.net/manga.php?id=44347) Chapter 1 on (6 hours ago)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 236 on (6 hours ago)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 235 on (6 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 121 on (39 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 120 on (39 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 119 on (2 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 118 on (2 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 117 on (2 hours ago)
+- 📖 Read [One Punch-Man](https://MyAnimeList.net/manga.php?id=44347) Chapter 1 on (7 hours ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 236 on (7 hours ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 235 on (7 hours ago)
 - 📺 Watched [Gabriel DropOut](https://MyAnimeList.net/anime.php?id=33731) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan: Kanketsu-hen](https://MyAnimeList.net/anime.php?id=38249) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan 2](https://MyAnimeList.net/anime.php?id=34612) Episode 24 on (Feb 1, 12:14 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 116 on (Jan 31, 1:29 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 115 on (Jan 31, 1:29 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 114 on (Jan 31, 1:29 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 113 on (Jan 31, 1:29 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 112 on (Jan 31, 1:29 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
