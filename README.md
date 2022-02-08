@@ -49,9 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [One Punch-Man](https://MyAnimeList.net/manga.php?id=44347) Chapter 1 on (4 hours ago)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 236 on (4 hours ago)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 235 on (4 hours ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 119 on (18 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 118 on (18 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 117 on (18 minutes ago)
+- 📖 Read [One Punch-Man](https://MyAnimeList.net/manga.php?id=44347) Chapter 1 on (5 hours ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 236 on (5 hours ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 235 on (5 hours ago)
 - 📺 Watched [Gabriel DropOut](https://MyAnimeList.net/anime.php?id=33731) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan: Kanketsu-hen](https://MyAnimeList.net/anime.php?id=38249) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan 2](https://MyAnimeList.net/anime.php?id=34612) Episode 24 on (Feb 1, 12:14 AM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 114 on (Jan 31, 1:29 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 113 on (Jan 31, 1:29 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 112 on (Jan 31, 1:29 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 111 on (Jan 31, 1:29 AM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 4 on (Jan 31, 12:13 AM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 3 on (Jan 31, 12:13 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
