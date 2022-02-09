@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 187 on (35 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 124 on (3 hours ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 123 on (3 hours ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 122 on (Yesterday, 7:40 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Gabriel DropOut](https://MyAnimeList.net/anime.php?id=33731) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan: Kanketsu-hen](https://MyAnimeList.net/anime.php?id=38249) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan 2](https://MyAnimeList.net/anime.php?id=34612) Episode 24 on (Feb 1, 12:14 AM)
-- 📺 Watched [Saiki Kusuo no Ψ-nan](https://MyAnimeList.net/anime.php?id=33255) Episode 120 on (Feb 1, 12:14 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
