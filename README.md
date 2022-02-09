@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 124 on (26 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 123 on (26 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 122 on (Yesterday, 7:40 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 121 on (Yesterday, 1:39 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 120 on (Yesterday, 1:39 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Saiki Kusuo no Ψ-nan: Kanketsu-hen](https://MyAnimeList.net/anime.php?id=38249) Episode 1 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan 2](https://MyAnimeList.net/anime.php?id=34612) Episode 24 on (Feb 1, 12:14 AM)
 - 📺 Watched [Saiki Kusuo no Ψ-nan](https://MyAnimeList.net/anime.php?id=33255) Episode 120 on (Feb 1, 12:14 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 116 on (Jan 31, 1:29 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 115 on (Jan 31, 1:29 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
