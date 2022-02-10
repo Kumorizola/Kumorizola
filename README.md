@@ -49,6 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 10 on (32 minutes ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 9 on (32 minutes ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 8 on (32 minutes ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 7 on (32 minutes ago)
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 6 on (32 minutes ago)
+- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 5 on (32 minutes ago)
 - 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 187 on (Today, 5:39 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 124 on (Today, 2:48 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 123 on (Today, 2:48 AM)
@@ -58,12 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 119 on (Yesterday, 12:01 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 118 on (Yesterday, 12:01 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 117 on (Yesterday, 12:01 AM)
-- 📖 Read [One Punch-Man](https://MyAnimeList.net/manga.php?id=44347) Chapter 1 on (Feb 7, 6:55 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 236 on (Feb 7, 6:54 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 235 on (Feb 7, 6:54 PM)
-- 📺 Watched [Gabriel DropOut](https://MyAnimeList.net/anime.php?id=33731) Episode 1 on (Feb 1, 12:14 AM)
-- 📺 Watched [Saiki Kusuo no Ψ-nan: Kanketsu-hen](https://MyAnimeList.net/anime.php?id=38249) Episode 1 on (Feb 1, 12:14 AM)
-- 📺 Watched [Saiki Kusuo no Ψ-nan 2](https://MyAnimeList.net/anime.php?id=34612) Episode 24 on (Feb 1, 12:14 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
