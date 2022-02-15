@@ -49,9 +49,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 132 on (Today, 7:00 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 131 on (Today, 7:00 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 130 on (Today, 7:00 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 137 on (12 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 136 on (35 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 135 on (35 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 134 on (1 hour ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 133 on (1 hour ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 132 on (Yesterday, 7:00 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 131 on (Yesterday, 7:00 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 130 on (Yesterday, 7:00 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 129 on (Feb 12, 6:09 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 128 on (Feb 12, 6:09 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 127 on (Feb 12, 6:09 PM)
@@ -59,11 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 125 on (Feb 12, 6:09 PM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 17 on (Feb 11, 2:17 AM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 16 on (Feb 11, 2:17 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 15 on (Feb 11, 2:17 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 14 on (Feb 11, 2:17 AM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 10 on (Feb 9, 6:44 PM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 9 on (Feb 9, 6:44 PM)
-- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 8 on (Feb 9, 6:44 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
