@@ -49,8 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (9 minutes ago)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (9 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 139 on (23 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 12 on (47 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 11 on (47 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 10 on (47 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (1 hour ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (1 hour ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 138 on (Yesterday, 7:29 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 137 on (Yesterday, 12:07 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 136 on (Feb 14, 11:44 PM)
@@ -60,10 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 132 on (Feb 14, 7:00 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 131 on (Feb 14, 7:00 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 130 on (Feb 14, 7:00 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 129 on (Feb 12, 6:09 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 128 on (Feb 12, 6:09 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 127 on (Feb 12, 6:09 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 126 on (Feb 12, 6:09 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
