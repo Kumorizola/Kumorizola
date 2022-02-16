@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (9 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (9 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 138 on (Yesterday, 7:29 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 137 on (Yesterday, 12:07 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 136 on (Feb 14, 11:44 PM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 128 on (Feb 12, 6:09 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 127 on (Feb 12, 6:09 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 126 on (Feb 12, 6:09 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 125 on (Feb 12, 6:09 PM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 17 on (Feb 11, 2:17 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
