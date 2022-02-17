@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 140 on (Today, 6:20 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 139 on (Today, 5:52 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 12 on (Today, 5:28 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 11 on (Today, 5:28 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 10 on (Today, 5:28 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (Today, 5:10 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (Today, 5:10 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 138 on (Yesterday, 7:29 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 137 on (Yesterday, 12:07 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 140 on (Yesterday, 6:20 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 139 on (Yesterday, 5:52 AM)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 16 on (55 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 15 on (55 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 14 on (55 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 13 on (55 minutes ago)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 12 on (Yesterday, 5:28 AM)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 11 on (Yesterday, 5:28 AM)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 10 on (Yesterday, 5:28 AM)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (Yesterday, 5:10 AM)
+- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (Yesterday, 5:10 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 138 on (Feb 15, 7:29 AM)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 137 on (Feb 15, 12:07 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 136 on (Feb 14, 11:44 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 135 on (Feb 14, 11:44 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 134 on (Feb 14, 11:19 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 133 on (Feb 14, 11:19 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 132 on (Feb 14, 7:00 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 131 on (Feb 14, 7:00 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
