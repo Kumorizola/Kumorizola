@@ -49,6 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 11 on (1 hour ago)
+- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 6 on (1 hour ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 18 on (1 hour ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 140 on (Feb 16, 6:20 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 139 on (Feb 16, 5:52 AM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 16 on (Feb 16, 11:23 PM)
@@ -61,9 +64,6 @@
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (Feb 16, 5:10 AM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (Feb 16, 5:10 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 138 on (Feb 15, 7:29 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 137 on (Feb 15, 12:07 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 136 on (Feb 14, 11:44 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 135 on (Feb 14, 11:44 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
