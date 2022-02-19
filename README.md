@@ -52,6 +52,7 @@
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 11 on (Today, 6:16 AM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 6 on (Today, 6:16 AM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 18 on (Today, 6:16 AM)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 237 on (41 minutes ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 140 on (Feb 16, 6:20 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 139 on (Feb 16, 5:52 AM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 16 on (Feb 16, 11:23 PM)
@@ -63,7 +64,6 @@
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 10 on (Feb 16, 5:28 AM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (Feb 16, 5:10 AM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (Feb 16, 5:10 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 138 on (Feb 15, 7:29 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
