@@ -49,6 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 143 on (31 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 142 on (31 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 141 on (31 minutes ago)
 - 📺 Watched [Kimetsu no Yaiba: Yuukaku-hen](https://MyAnimeList.net/anime.php?id=47778) Episode 11 on (Yesterday, 6:16 AM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 6 on (Yesterday, 6:16 AM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 18 on (Yesterday, 6:16 AM)
@@ -61,9 +64,6 @@
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 13 on (Feb 16, 11:23 PM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 12 on (Feb 16, 5:28 AM)
 - 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 11 on (Feb 16, 5:28 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 10 on (Feb 16, 5:28 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 9 on (Feb 16, 5:10 AM)
-- 📖 Read [Gokushufudou](https://MyAnimeList.net/manga.php?id=112922) Chapter 8 on (Feb 16, 5:10 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
