@@ -49,9 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 148 on (37 minutes ago)
-- 📺 Watched [Gokushufudou Part 2](https://MyAnimeList.net/anime.php?id=48707) Episode 1 on (37 minutes ago)
-- 📺 Watched [Gokushufudou](https://MyAnimeList.net/anime.php?id=43692) Episode 5 on (38 minutes ago)
+- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 148 on (2 hours ago)
+- 📺 Watched [Gokushufudou Part 2](https://MyAnimeList.net/anime.php?id=48707) Episode 1 on (2 hours ago)
+- 📺 Watched [Gokushufudou](https://MyAnimeList.net/anime.php?id=43692) Episode 5 on (2 hours ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 147 on (Yesterday, 9:30 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 146 on (Yesterday, 9:30 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 145 on (Yesterday, 9:30 AM)
