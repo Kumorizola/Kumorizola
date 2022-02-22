@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Akebi-chan no Sailor-fuku](https://MyAnimeList.net/anime.php?id=48553) Episode 1 on (1 hour ago)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 148 on (Yesterday, 11:43 PM)
 - 📺 Watched [Gokushufudou Part 2](https://MyAnimeList.net/anime.php?id=48707) Episode 1 on (Yesterday, 11:43 PM)
 - 📺 Watched [Gokushufudou](https://MyAnimeList.net/anime.php?id=43692) Episode 5 on (Yesterday, 11:42 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 6 on (Feb 18, 6:16 AM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 18 on (Feb 18, 6:16 AM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 140 on (Feb 16, 6:20 AM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 139 on (Feb 16, 5:52 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
