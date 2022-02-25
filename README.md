@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 8 on (Yesterday, 5:43 AM)
-- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 7 on (Yesterday, 5:43 AM)
+- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 8 on (Feb 23, 5:43 AM)
+- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 7 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 6 on (Feb 22, 11:53 PM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 5 on (Feb 22, 11:53 PM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 4 on (Feb 22, 11:53 PM)
