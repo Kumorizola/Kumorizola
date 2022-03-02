@@ -49,13 +49,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 6 on (58 minutes ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 5 on (2 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 4 on (2 hours ago)
-- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 9 on (5 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 3 on (6 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 2 on (6 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 1 on (7 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 6 on (2 hours ago)
+- 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 340 on (23 minutes ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 5 on (3 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 4 on (3 hours ago)
+- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 9 on (6 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 3 on (7 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 2 on (7 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 1 on (8 hours ago)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 8 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 7 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 6 on (Feb 22, 11:53 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 4 on (Feb 22, 11:53 PM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 3 on (Feb 22, 11:15 PM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 2 on (Feb 22, 11:15 PM)
-- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 1 on (Feb 22, 9:07 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
