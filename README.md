@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 1 on (19 minutes ago)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 8 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 7 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 6 on (Feb 22, 11:53 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Akebi-chan no Sailor-fuku](https://MyAnimeList.net/anime.php?id=48553) Episode 1 on (Feb 21, 7:19 PM)
 - 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 148 on (Feb 20, 11:43 PM)
 - 📺 Watched [Gokushufudou Part 2](https://MyAnimeList.net/anime.php?id=48707) Episode 1 on (Feb 20, 11:43 PM)
-- 📺 Watched [Gokushufudou](https://MyAnimeList.net/anime.php?id=43692) Episode 5 on (Feb 20, 11:42 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
