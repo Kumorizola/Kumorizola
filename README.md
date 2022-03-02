@@ -49,7 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 1 on (58 minutes ago)
+- 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 9 on (8 minutes ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 3 on (41 minutes ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 2 on (41 minutes ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 1 on (2 hours ago)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 8 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 7 on (Feb 23, 5:43 AM)
 - 📺 Watched [Akudama Drive](https://MyAnimeList.net/anime.php?id=41433) Episode 6 on (Feb 22, 11:53 PM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Sono Bisque Doll wa Koi wo Suru](https://MyAnimeList.net/anime.php?id=48736) Episode 1 on (Feb 22, 5:40 PM)
 - 📺 Watched [Akebi-chan no Sailor-fuku](https://MyAnimeList.net/anime.php?id=48553) Episode 2 on (Feb 22, 5:40 PM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 7 on (Feb 21, 11:26 PM)
-- 📺 Watched [Akebi-chan no Sailor-fuku](https://MyAnimeList.net/anime.php?id=48553) Episode 1 on (Feb 21, 7:19 PM)
-- 📺 Watched [Hunter x Hunter (2011)](https://MyAnimeList.net/anime.php?id=11061) Episode 148 on (Feb 20, 11:43 PM)
-- 📺 Watched [Gokushufudou Part 2](https://MyAnimeList.net/anime.php?id=48707) Episode 1 on (Feb 20, 11:43 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
