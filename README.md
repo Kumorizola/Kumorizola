@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 346 on (27 minutes ago)
 - 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 15 on (Yesterday, 4:56 AM)
 - 📺 Watched [Kuroko no Basket: Baka ja Katenai no yo!](https://MyAnimeList.net/anime.php?id=19669) Episode 1 on (Yesterday, 2:46 AM)
 - 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 345 on (Yesterday, 1:59 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 6 on (Mar 2, 12:18 AM)
 - 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 344 on (Mar 2, 6:48 PM)
 - 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 343 on (Mar 2, 6:22 PM)
-- 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 342 on (Mar 2, 4:54 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
