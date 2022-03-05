@@ -49,11 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket: Tip Off](https://MyAnimeList.net/anime.php?id=16916) Episode 1 on (50 minutes ago)
-- 📺 Watched [Saiki Kusuo no Ψ-nan (ONA)](https://MyAnimeList.net/anime.php?id=19469) Episode 1 on (5 hours ago)
-- 📺 Watched [Saiki Kusuo no Ψ-nan: Ψ-shidou-hen](https://MyAnimeList.net/anime.php?id=40542) Episode 1 on (5 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 17 on (5 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 16 on (5 hours ago)
+- 📺 Watched [Kuroko no Basket: Tip Off](https://MyAnimeList.net/anime.php?id=16916) Episode 1 on (2 hours ago)
+- 📺 Watched [Saiki Kusuo no Ψ-nan (ONA)](https://MyAnimeList.net/anime.php?id=19469) Episode 1 on (6 hours ago)
+- 📺 Watched [Saiki Kusuo no Ψ-nan: Ψ-shidou-hen](https://MyAnimeList.net/anime.php?id=40542) Episode 1 on (6 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 17 on (6 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 16 on (6 hours ago)
 - 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 346 on (Yesterday, 1:51 AM)
 - 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 15 on (Mar 3, 4:56 AM)
 - 📺 Watched [Kuroko no Basket: Baka ja Katenai no yo!](https://MyAnimeList.net/anime.php?id=19669) Episode 1 on (Mar 3, 2:46 AM)
