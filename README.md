@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket: Tip Off](https://MyAnimeList.net/anime.php?id=16916) Episode 1 on (2 hours ago)
-- 📺 Watched [Saiki Kusuo no Ψ-nan (ONA)](https://MyAnimeList.net/anime.php?id=19469) Episode 1 on (6 hours ago)
-- 📺 Watched [Saiki Kusuo no Ψ-nan: Ψ-shidou-hen](https://MyAnimeList.net/anime.php?id=40542) Episode 1 on (6 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 17 on (6 hours ago)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 16 on (6 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 24 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 25 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 24 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 23 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 22 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 21 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 20 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 19 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 18 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket: Tip Off](https://MyAnimeList.net/anime.php?id=16916) Episode 1 on (4 hours ago)
+- 📺 Watched [Saiki Kusuo no Ψ-nan (ONA)](https://MyAnimeList.net/anime.php?id=19469) Episode 1 on (8 hours ago)
+- 📺 Watched [Saiki Kusuo no Ψ-nan: Ψ-shidou-hen](https://MyAnimeList.net/anime.php?id=40542) Episode 1 on (8 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 17 on (8 hours ago)
+- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 16 on (8 hours ago)
 - 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 346 on (Yesterday, 1:51 AM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 15 on (Mar 3, 4:56 AM)
-- 📺 Watched [Kuroko no Basket: Baka ja Katenai no yo!](https://MyAnimeList.net/anime.php?id=19669) Episode 1 on (Mar 3, 2:46 AM)
-- 📖 Read [Hunter x Hunter](https://MyAnimeList.net/manga.php?id=26) Chapter 345 on (Mar 3, 1:59 AM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 14 on (Mar 2, 11:26 PM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 13 on (Mar 2, 10:34 PM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 12 on (Mar 2, 10:34 PM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 11 on (Mar 2, 10:34 PM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 10 on (Mar 2, 9:12 PM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 9 on (Mar 2, 6:57 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
