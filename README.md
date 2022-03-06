@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari](https://MyAnimeList.net/anime.php?id=32869) Episode 1 on (53 minutes ago)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 9 on (Yesterday, 4:04 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 8 on (Yesterday, 4:01 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 7 on (Yesterday, 3:59 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 24 on (Yesterday, 2:02 AM)
 - 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 25 on (Yesterday, 2:02 AM)
 - 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 24 on (Yesterday, 2:02 AM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 23 on (Yesterday, 2:02 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
