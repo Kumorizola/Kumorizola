@@ -50,8 +50,10 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari](https://MyAnimeList.net/anime.php?id=32869) Episode 1 on (Today, 6:23 AM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 239 on (3 minutes ago)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 238 on (7 minutes ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 241 on (45 minutes ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 240 on (48 minutes ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 239 on (56 minutes ago)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 238 on (1 hour ago)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 9 on (Yesterday, 4:04 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 8 on (Yesterday, 4:01 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 7 on (Yesterday, 3:59 PM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 2 on (Yesterday, 7:09 AM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 1 on (Yesterday, 7:05 AM)
 - 📺 Watched [Kuroko no Basket: Oshaberi Shiyokka](https://MyAnimeList.net/anime.php?id=17259) Episode 1 on (Yesterday, 6:35 AM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 25 on (Yesterday, 5:23 AM)
-- 📺 Watched [Kuroko no Basket](https://MyAnimeList.net/anime.php?id=11771) Episode 24 on (Yesterday, 2:02 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
