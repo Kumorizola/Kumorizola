@@ -49,13 +49,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 2 on (Today, 1:07 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 1 on (Today, 1:07 AM)
-- 📺 Watched [Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari](https://MyAnimeList.net/anime.php?id=32869) Episode 1 on (Yesterday, 6:23 AM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 241 on (Yesterday, 8:31 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 240 on (Yesterday, 8:27 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 239 on (Yesterday, 8:19 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 238 on (Yesterday, 8:15 PM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 2 on (Yesterday, 1:07 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 1 on (Yesterday, 1:07 AM)
+- 📺 Watched [Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari](https://MyAnimeList.net/anime.php?id=32869) Episode 1 on (Mar 6, 6:23 AM)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 241 on (Mar 6, 8:31 PM)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 240 on (Mar 6, 8:27 PM)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 239 on (Mar 6, 8:19 PM)
+- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 238 on (Mar 6, 8:15 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 9 on (Mar 5, 4:04 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 8 on (Mar 5, 4:01 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 7 on (Mar 5, 3:59 PM)
