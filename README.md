@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 6 on (49 minutes ago)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 5 on (Yesterday, 1:11 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 4 on (Yesterday, 1:11 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 3 on (Yesterday, 12:36 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 8 on (Mar 5, 4:01 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 7 on (Mar 5, 3:59 PM)
 - 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 6 on (Mar 5, 3:58 PM)
-- 📺 Watched [Kuroko no Basket NG-shuu](https://MyAnimeList.net/anime.php?id=15487) Episode 5 on (Mar 5, 3:55 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
