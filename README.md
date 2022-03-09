@@ -49,12 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 11 on (6 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 10 on (6 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 9 on (7 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 8 on (8 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 7 on (8 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 6 on (12 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 11 on (7 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 10 on (7 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 9 on (8 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 8 on (9 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 7 on (9 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 6 on (Today, 1:30 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 5 on (Yesterday, 1:11 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 4 on (Yesterday, 1:11 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 3 on (Yesterday, 12:36 AM)
