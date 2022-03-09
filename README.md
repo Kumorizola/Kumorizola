@@ -49,11 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 5 on (Today, 1:11 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 4 on (Today, 1:11 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 3 on (Today, 12:36 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 2 on (Yesterday, 1:07 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 1 on (Yesterday, 1:07 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 5 on (Yesterday, 1:11 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 4 on (Yesterday, 1:11 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 3 on (Yesterday, 12:36 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 2 on (Mar 7, 1:07 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 1 on (Mar 7, 1:07 AM)
 - 📺 Watched [Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari](https://MyAnimeList.net/anime.php?id=32869) Episode 1 on (Mar 6, 6:23 AM)
 - 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 241 on (Mar 6, 8:31 PM)
 - 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 240 on (Mar 6, 8:27 PM)
