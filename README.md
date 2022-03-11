@@ -50,8 +50,8 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 19 on (5 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (5 hours ago)
-- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (7 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (6 hours ago)
+- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (8 hours ago)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 17 on (Yesterday, 6:37 AM)
 - 📺 Watched [Kuroko no Basket: Mou Ikkai Yarimasen ka](https://MyAnimeList.net/anime.php?id=22125) Episode 1 on (Yesterday, 5:48 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 16 on (Yesterday, 5:26 AM)
