@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (33 minutes ago)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 17 on (Today, 6:37 AM)
 - 📺 Watched [Kuroko no Basket: Mou Ikkai Yarimasen ka](https://MyAnimeList.net/anime.php?id=22125) Episode 1 on (Today, 5:48 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 16 on (Today, 5:26 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 7 on (Yesterday, 5:29 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 6 on (Yesterday, 1:30 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 5 on (Mar 8, 1:11 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 4 on (Mar 8, 1:11 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
