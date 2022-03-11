@@ -49,9 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 19 on (5 hours ago)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (6 hours ago)
-- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (8 hours ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 21 on (14 minutes ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 20 on (14 minutes ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 19 on (15 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 19 on (6 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (7 hours ago)
+- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (9 hours ago)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 17 on (Yesterday, 6:37 AM)
 - 📺 Watched [Kuroko no Basket: Mou Ikkai Yarimasen ka](https://MyAnimeList.net/anime.php?id=22125) Episode 1 on (Yesterday, 5:48 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 16 on (Yesterday, 5:26 AM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 12 on (Yesterday, 12:06 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 11 on (Mar 9, 7:09 AM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 10 on (Mar 9, 7:09 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 9 on (Mar 9, 5:52 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 8 on (Mar 9, 5:29 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 7 on (Mar 9, 5:29 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
