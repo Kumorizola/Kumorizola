@@ -49,13 +49,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 21 on (Today, 6:14 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 20 on (Today, 2:13 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 21 on (Yesterday, 7:03 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 20 on (Yesterday, 7:03 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 19 on (Yesterday, 7:03 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 19 on (Yesterday, 12:51 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (Yesterday, 12:40 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 21 on (Yesterday, 6:14 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 20 on (Yesterday, 2:13 AM)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 21 on (Mar 11, 7:03 AM)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 20 on (Mar 11, 7:03 AM)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 19 on (Mar 11, 7:03 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 19 on (Mar 11, 12:51 AM)
+- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (Mar 11, 12:40 AM)
 - 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (Mar 10, 10:43 PM)
 - 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 17 on (Mar 10, 6:37 AM)
 - 📺 Watched [Kuroko no Basket: Mou Ikkai Yarimasen ka](https://MyAnimeList.net/anime.php?id=22125) Episode 1 on (Mar 10, 5:48 AM)
