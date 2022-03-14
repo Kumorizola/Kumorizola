@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket: Oshaberi Demo Shimasen ka](https://MyAnimeList.net/anime.php?id=29583) Episode 1 on (Today, 7:14 AM)
-- 📺 Watched [Kuroko no Basket: Oshaberi Demo Shimasen ka](https://MyAnimeList.net/anime.php?id=29583) Episode 1 on (Today, 7:00 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 25 on (Today, 6:23 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 24 on (Today, 5:31 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 23 on (Today, 5:08 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 22 on (Today, 1:54 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 21 on (Yesterday, 6:14 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 20 on (Yesterday, 2:13 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 21 on (Mar 11, 7:03 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 20 on (Mar 11, 7:03 AM)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 19 on (Mar 11, 7:03 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 19 on (Mar 11, 12:51 AM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 18 on (Mar 11, 12:40 AM)
-- 📺 Watched [Gintama](https://MyAnimeList.net/anime.php?id=918) Episode 188 on (Mar 10, 10:43 PM)
-- 📺 Watched [Kuroko no Basket 2nd Season](https://MyAnimeList.net/anime.php?id=16894) Episode 17 on (Mar 10, 6:37 AM)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 1 on (58 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 9 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 8 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 7 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 6 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 5 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 4 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 3 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 2 on (59 minutes ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 1 on (59 minutes ago)
+- 📺 Watched [Haikyuu!! To the Top](https://MyAnimeList.net/anime.php?id=38883) Episode 13 on (1 hour ago)
+- 📺 Watched [Haikyuu!!: Riku vs. Kuu](https://MyAnimeList.net/anime.php?id=40262) Episode 2 on (1 hour ago)
+- 📺 Watched [Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou](https://MyAnimeList.net/anime.php?id=32935) Episode 10 on (1 hour ago)
+- 📺 Watched [Haikyuu!!: vs. "Akaten"](https://MyAnimeList.net/anime.php?id=35806) Episode 1 on (1 hour ago)
+- 📺 Watched [Haikyuu!! Second Season](https://MyAnimeList.net/anime.php?id=28891) Episode 25 on (1 hour ago)
 
 <!-- MAL_ACTIVITY:end -->
 
