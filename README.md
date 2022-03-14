@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 1 on (58 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 9 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 8 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 7 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 6 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 5 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 4 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 3 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 2 on (59 minutes ago)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 1 on (59 minutes ago)
-- 📺 Watched [Haikyuu!! To the Top](https://MyAnimeList.net/anime.php?id=38883) Episode 13 on (1 hour ago)
-- 📺 Watched [Haikyuu!!: Riku vs. Kuu](https://MyAnimeList.net/anime.php?id=40262) Episode 2 on (1 hour ago)
-- 📺 Watched [Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou](https://MyAnimeList.net/anime.php?id=32935) Episode 10 on (1 hour ago)
-- 📺 Watched [Haikyuu!!: vs. "Akaten"](https://MyAnimeList.net/anime.php?id=35806) Episode 1 on (1 hour ago)
-- 📺 Watched [Haikyuu!! Second Season](https://MyAnimeList.net/anime.php?id=28891) Episode 25 on (1 hour ago)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 1 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 9 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 8 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 7 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 6 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 5 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 4 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 3 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 2 on (2 hours ago)
+- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 1 on (2 hours ago)
+- 📺 Watched [Haikyuu!! To the Top](https://MyAnimeList.net/anime.php?id=38883) Episode 13 on (2 hours ago)
+- 📺 Watched [Haikyuu!!: Riku vs. Kuu](https://MyAnimeList.net/anime.php?id=40262) Episode 2 on (2 hours ago)
+- 📺 Watched [Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou](https://MyAnimeList.net/anime.php?id=32935) Episode 10 on (2 hours ago)
+- 📺 Watched [Haikyuu!!: vs. "Akaten"](https://MyAnimeList.net/anime.php?id=35806) Episode 1 on (2 hours ago)
+- 📺 Watched [Haikyuu!! Second Season](https://MyAnimeList.net/anime.php?id=28891) Episode 25 on (2 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
