@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 3 on (1 minute ago)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 2 on (Yesterday, 8:15 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 1 on (Mar 13, 8:29 PM)
 - 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 9 on (Mar 13, 8:29 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Haikyuu!! To the Top](https://MyAnimeList.net/anime.php?id=38883) Episode 13 on (Mar 13, 8:23 PM)
 - 📺 Watched [Haikyuu!!: Riku vs. Kuu](https://MyAnimeList.net/anime.php?id=40262) Episode 2 on (Mar 13, 8:23 PM)
 - 📺 Watched [Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou](https://MyAnimeList.net/anime.php?id=32935) Episode 10 on (Mar 13, 8:23 PM)
-- 📺 Watched [Haikyuu!!: vs. "Akaten"](https://MyAnimeList.net/anime.php?id=35806) Episode 1 on (Mar 13, 8:22 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
