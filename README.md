@@ -49,8 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 22 on (4 hours ago)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 5 on (4 hours ago)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 7 on (20 minutes ago)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 6 on (45 minutes ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 22 on (5 hours ago)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 5 on (6 hours ago)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 4 on (Mar 17, 7:42 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 3 on (Mar 17, 7:21 AM)
 - 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 246 on (Mar 17, 8:22 PM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 1 on (Mar 13, 8:29 PM)
 - 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 9 on (Mar 13, 8:29 PM)
 - 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 8 on (Mar 13, 8:29 PM)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 7 on (Mar 13, 8:29 PM)
-- 📺 Watched [Kuroko no Basket 2nd Season NG-shuu](https://MyAnimeList.net/anime.php?id=22673) Episode 6 on (Mar 13, 8:29 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
