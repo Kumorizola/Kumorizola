@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 15 on (5 minutes ago)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 14 on (38 minutes ago)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 13 on (Today, 7:53 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 12 on (Today, 7:45 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 11 on (Today, 7:22 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 4 on (Mar 17, 7:42 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 3 on (Mar 17, 7:21 AM)
 - 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 246 on (Mar 17, 8:22 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 245 on (Mar 17, 8:22 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 244 on (Mar 17, 8:22 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
