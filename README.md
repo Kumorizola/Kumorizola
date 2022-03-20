@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 13 on (12 hours ago)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 12 on (12 hours ago)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 13 on (Today, 7:53 AM)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 12 on (Today, 7:45 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 11 on (Today, 7:22 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 10 on (Today, 7:02 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 9 on (Today, 6:43 AM)
