@@ -49,10 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 1 on (Yesterday, 4:00 AM)
-- 📺 Watched [Kuroko no Basket: Oshaberi Shiyou ka](https://MyAnimeList.net/anime.php?id=34784) Episode 1 on (Yesterday, 3:58 AM)
-- 📺 Watched [Kuroko no Basket: Saikou no Present Desu](https://MyAnimeList.net/anime.php?id=31051) Episode 1 on (Yesterday, 1:12 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 25 on (Yesterday, 12:14 AM)
+- 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 1 on (Mar 24, 4:00 AM)
+- 📺 Watched [Kuroko no Basket: Oshaberi Shiyou ka](https://MyAnimeList.net/anime.php?id=34784) Episode 1 on (Mar 24, 3:58 AM)
+- 📺 Watched [Kuroko no Basket: Saikou no Present Desu](https://MyAnimeList.net/anime.php?id=31051) Episode 1 on (Mar 24, 1:12 AM)
+- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 25 on (Mar 24, 12:14 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 24 on (Mar 23, 8:02 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 23 on (Mar 23, 7:55 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 22 on (Mar 23, 6:33 AM)
