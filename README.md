@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kuroko no Basket Movie 4: Last Game](https://MyAnimeList.net/anime.php?id=31658) Episode 1 on (22 minutes ago)
+- 📺 Watched [Kuroko no Basket Movie 4: Last Game](https://MyAnimeList.net/anime.php?id=31658) Episode 1 on (1 hour ago)
 - 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 1 on (Mar 24, 4:00 AM)
 - 📺 Watched [Kuroko no Basket: Oshaberi Shiyou ka](https://MyAnimeList.net/anime.php?id=34784) Episode 1 on (Mar 24, 3:58 AM)
 - 📺 Watched [Kuroko no Basket: Saikou no Present Desu](https://MyAnimeList.net/anime.php?id=31051) Episode 1 on (Mar 24, 1:12 AM)
