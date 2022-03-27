@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 1 on (17 minutes ago)
 - 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 9 on (Yesterday, 8:31 AM)
 - 📺 Watched [Kuroko no Basket Movie 4: Last Game](https://MyAnimeList.net/anime.php?id=31658) Episode 1 on (Yesterday, 6:53 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 1 on (Mar 24, 4:00 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 19 on (Mar 22, 12:25 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 18 on (Mar 22, 12:09 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 17 on (Mar 19, 11:56 PM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 16 on (Mar 19, 11:29 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
