@@ -49,7 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 3 on (4 hours ago)
+- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 5 on (15 minutes ago)
+- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 8 on (32 minutes ago)
+- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 4 on (45 minutes ago)
+- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 3 on (5 hours ago)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 2 on (Mar 28, 11:34 PM)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 1 on (Mar 27, 3:01 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 9 on (Mar 26, 8:31 AM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 24 on (Mar 23, 8:02 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 23 on (Mar 23, 7:55 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 22 on (Mar 23, 6:33 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 21 on (Mar 23, 5:03 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 20 on (Mar 22, 7:56 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 19 on (Mar 22, 12:25 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
