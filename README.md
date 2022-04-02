@@ -49,9 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 5 on (Yesterday, 4:00 AM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 8 on (Yesterday, 3:42 AM)
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 4 on (Yesterday, 3:30 AM)
+- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 5 on (Mar 31, 4:00 AM)
+- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 8 on (Mar 31, 3:42 AM)
+- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 4 on (Mar 31, 3:30 AM)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 3 on (Mar 30, 11:18 PM)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 2 on (Mar 28, 11:34 PM)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 1 on (Mar 27, 3:01 AM)
