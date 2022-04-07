@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Tate no Yuusha no Nariagari Season 2](https://MyAnimeList.net/anime.php?id=40356) Episode 1 on (1 hour ago)
-- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 23 on (1 hour ago)
+- 📺 Watched [Tate no Yuusha no Nariagari Season 2](https://MyAnimeList.net/anime.php?id=40356) Episode 1 on (2 hours ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 23 on (2 hours ago)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 5 on (Mar 31, 4:00 AM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 8 on (Mar 31, 3:42 AM)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 4 on (Mar 31, 3:30 AM)
