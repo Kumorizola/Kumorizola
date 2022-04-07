@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Tate no Yuusha no Nariagari Season 2](https://MyAnimeList.net/anime.php?id=40356) Episode 1 on (14 minutes ago)
+- 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 23 on (22 minutes ago)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 5 on (Mar 31, 4:00 AM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 8 on (Mar 31, 3:42 AM)
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 4 on (Mar 31, 3:30 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Kuroko no Basket: Saikou no Present Desu](https://MyAnimeList.net/anime.php?id=31051) Episode 1 on (Mar 24, 1:12 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 25 on (Mar 24, 12:14 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 24 on (Mar 23, 8:02 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 23 on (Mar 23, 7:55 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season](https://MyAnimeList.net/anime.php?id=24415) Episode 22 on (Mar 23, 6:33 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
