@@ -62,8 +62,6 @@
 - 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 1 on (Mar 27, 3:01 AM)
 - 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 9 on (Mar 26, 8:31 AM)
 - 📺 Watched [Kuroko no Basket Movie 4: Last Game](https://MyAnimeList.net/anime.php?id=31658) Episode 1 on (Mar 26, 6:53 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 1 on (Mar 24, 4:00 AM)
-- 📺 Watched [Kuroko no Basket: Oshaberi Shiyou ka](https://MyAnimeList.net/anime.php?id=34784) Episode 1 on (Mar 24, 3:58 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
