@@ -49,20 +49,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 3 on (15 minutes ago)
 - 📺 Watched [Tate no Yuusha no Nariagari Season 2](https://MyAnimeList.net/anime.php?id=40356) Episode 3 on (Apr 20, 7:32 PM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 2 on (Apr 16, 4:50 PM)
 - 📺 Watched [Tate no Yuusha no Nariagari Season 2](https://MyAnimeList.net/anime.php?id=40356) Episode 2 on (Apr 13, 8:59 PM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 1 on (Apr 9, 5:49 PM)
 - 📺 Watched [Tate no Yuusha no Nariagari Season 2](https://MyAnimeList.net/anime.php?id=40356) Episode 1 on (Apr 7, 12:03 AM)
 - 📺 Watched [Ousama Ranking](https://MyAnimeList.net/anime.php?id=40834) Episode 23 on (Apr 6, 11:55 PM)
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 5 on (Mar 31, 4:00 AM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 8 on (Mar 31, 3:42 AM)
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 4 on (Mar 31, 3:30 AM)
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 3 on (Mar 30, 11:18 PM)
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 2 on (Mar 28, 11:34 PM)
-- 📺 Watched [Monster](https://MyAnimeList.net/anime.php?id=19) Episode 1 on (Mar 27, 3:01 AM)
-- 📺 Watched [Kuroko no Basket 3rd Season NG-shuu](https://MyAnimeList.net/anime.php?id=30311) Episode 9 on (Mar 26, 8:31 AM)
-- 📺 Watched [Kuroko no Basket Movie 4: Last Game](https://MyAnimeList.net/anime.php?id=31658) Episode 1 on (Mar 26, 6:53 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
