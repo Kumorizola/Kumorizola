@@ -52,7 +52,6 @@
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 9 on (Jun 4, 3:19 PM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 8 on (May 31, 7:41 PM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 7 on (May 22, 2:58 AM)
-- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 6 on (May 15, 8:45 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
