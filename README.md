@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 12 on (12 hours ago)
+- 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 12 on (Yesterday, 6:04 PM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 11 on (Jun 19, 3:19 AM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 10 on (Jun 15, 2:08 AM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 9 on (Jun 4, 3:19 PM)
