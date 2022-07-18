@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Isekai Yakkyoku](https://MyAnimeList.net/anime.php?id=49438) Episode 1 on (Yesterday, 6:52 PM)
+- 📺 Watched [Isekai Yakkyoku](https://MyAnimeList.net/anime.php?id=49438) Episode 1 on (Jul 16, 6:52 PM)
 - 📺 Watched [Spy x Family](https://MyAnimeList.net/anime.php?id=50265) Episode 12 on (Jun 29, 6:04 PM)
 
 <!-- MAL_ACTIVITY:end -->
