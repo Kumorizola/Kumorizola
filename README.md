@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Isekai Yakkyoku](https://MyAnimeList.net/anime.php?id=49438) Episode 1 on (Jul 16, 6:52 PM)
+
 
 <!-- MAL_ACTIVITY:end -->
 
