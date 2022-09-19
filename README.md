@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 1 on (4 hours ago)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 1 on (6 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
