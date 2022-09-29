@@ -49,9 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 4 on (2 hours ago)
-- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 3 on (Today, 7:12 AM)
-- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 2 on (Yesterday, 10:34 PM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 5 on (1 hour ago)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 4 on (3 hours ago)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 3 on (Yesterday, 7:12 AM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 2 on (Sep 27, 10:34 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 1 on (Sep 18, 11:52 PM)
 
 <!-- MAL_ACTIVITY:end -->
