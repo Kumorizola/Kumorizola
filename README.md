@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 1 on (12 hours ago)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 1 on (Yesterday, 6:57 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 13 on (Yesterday, 5:16 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 12 on (Yesterday, 5:16 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 11 on (Yesterday, 4:44 AM)
