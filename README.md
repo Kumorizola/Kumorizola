@@ -49,7 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 1 on (Yesterday, 2:34 AM)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 2 on (1 hour ago)
+- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 1 on (Oct 12, 2:34 AM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 1 on (Oct 1, 6:57 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 13 on (Oct 1, 5:16 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 12 on (Oct 1, 5:16 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 4 on (Sep 28, 9:37 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 3 on (Sep 28, 7:12 AM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 2 on (Sep 27, 10:34 PM)
-- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 1 on (Sep 18, 11:52 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
