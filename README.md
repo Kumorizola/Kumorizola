@@ -49,7 +49,20 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 2 on (Oct 22, 3:04 AM)
+- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 2 on (Oct 20, 12:41 AM)
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 1 on (Oct 20, 12:17 AM)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 3 on (Oct 20, 12:03 AM)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 2 on (Oct 13, 11:25 PM)
+- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 1 on (Oct 12, 2:34 AM)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 1 on (Oct 1, 6:57 PM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 13 on (Oct 1, 5:16 PM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 12 on (Oct 1, 5:16 PM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 11 on (Oct 1, 4:44 AM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 10 on (Oct 1, 4:44 AM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 9 on (Sep 30, 8:06 AM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 8 on (Sep 30, 8:06 AM)
+- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 7 on (Sep 30, 8:06 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
