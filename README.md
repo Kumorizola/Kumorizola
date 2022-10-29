@@ -49,8 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 3 on (23 minutes ago)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 1 on (22 minutes ago)
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 3 on (1 hour ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 2 on (60 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 1 on (1 hour ago)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 4 on (Oct 26, 2:50 AM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 3 on (Oct 26, 2:50 AM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 2 on (Oct 22, 3:04 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 13 on (Oct 1, 5:16 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 12 on (Oct 1, 5:16 PM)
 - 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 11 on (Oct 1, 4:44 AM)
-- 📺 Watched [Overlord IV](https://MyAnimeList.net/anime.php?id=48895) Episode 10 on (Oct 1, 4:44 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
