@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 4 on (12 hours ago)
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 4 on (Yesterday, 8:44 PM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 5 on (Yesterday, 4:49 PM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 3 on (Yesterday, 1:56 AM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 4 on (Oct 26, 2:50 AM)
