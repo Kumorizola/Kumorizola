@@ -49,21 +49,20 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 7 on (29 minutes ago)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 6 on (Nov 10, 9:58 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 5 on (Nov 9, 1:40 AM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 4 on (Nov 5, 1:29 AM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 4 on (Oct 29, 8:44 PM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 5 on (Oct 29, 4:49 PM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 3 on (Oct 29, 1:56 AM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 4 on (Oct 26, 2:50 AM)
-- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 3 on (Oct 26, 2:50 AM)
-- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 2 on (Oct 22, 3:04 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 4 on (Oct 29, 8:18 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 3 on (Oct 29, 7:32 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 2 on (Oct 29, 2:21 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 1 on (Oct 29, 1:57 AM)
-- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 2 on (Oct 20, 12:41 AM)
-- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 1 on (Oct 20, 12:17 AM)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 4 on (Oct 26, 2:50 AM)
+- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 3 on (Oct 26, 2:50 AM)
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 2 on (Oct 22, 3:04 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
