@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 7 on (5 minutes ago)
+- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 7 on (6 minutes ago)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 6 on (Nov 19, 2:27 AM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 5 on (Nov 16, 6:46 AM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 6 on (Nov 16, 5:48 AM)
@@ -62,7 +64,6 @@
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 4 on (Oct 29, 8:18 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 3 on (Oct 29, 7:32 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 2 on (Oct 29, 2:21 AM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 1 on (Oct 29, 1:57 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
