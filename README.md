@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 8 on (5 minutes ago)
+- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 8 on (32 minutes ago)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 7 on (Nov 24, 5:20 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 7 on (Nov 24, 5:20 PM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 6 on (Nov 19, 2:27 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 5 on (Oct 29, 4:49 PM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 3 on (Oct 29, 1:56 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 4 on (Oct 29, 8:18 PM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 3 on (Oct 29, 7:32 PM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 2 on (Oct 29, 2:21 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
