@@ -58,9 +58,6 @@
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 7 on (Nov 24, 5:20 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 7 on (Nov 24, 5:20 PM)
 - 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 6 on (Nov 19, 2:27 AM)
-- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 5 on (Nov 16, 6:46 AM)
-- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 6 on (Nov 16, 5:48 AM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 7 on (Nov 12, 11:54 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
