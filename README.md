@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 13 on (5 hours ago)
+- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 13 on (6 hours ago)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 1 on (Dec 21, 7:13 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 11 on (Dec 21, 6:32 PM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 12 on (Dec 19, 8:26 PM)
@@ -58,9 +58,6 @@
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 9 on (Dec 7, 1:46 AM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 10 on (Dec 3, 4:25 PM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 9 on (Dec 3, 4:25 PM)
-- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 8 on (Nov 30, 1:09 AM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 8 on (Nov 26, 5:33 PM)
-- 📺 Watched [Blue Lock](https://MyAnimeList.net/anime.php?id=49596) Episode 8 on (Nov 26, 5:07 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
