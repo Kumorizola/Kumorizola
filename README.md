@@ -50,10 +50,10 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 11 on (7 hours ago)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 10 on (7 hours ago)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 9 on (8 hours ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 10 on (8 hours ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 9 on (9 hours ago)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 8 on (9 hours ago)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 7 on (12 hours ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 7 on (Yesterday, 8:23 PM)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 6 on (Yesterday, 8:01 PM)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 5 on (Yesterday, 6:39 PM)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 4 on (Dec 25, 8:02 PM)
