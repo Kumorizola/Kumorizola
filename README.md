@@ -49,12 +49,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 7 on (3 hours ago)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 6 on (3 hours ago)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 5 on (5 hours ago)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 4 on (Yesterday, 8:02 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 3 on (Yesterday, 7:25 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 2 on (Yesterday, 7:00 PM)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 9 on (7 minutes ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 8 on (33 minutes ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 7 on (4 hours ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 6 on (4 hours ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 5 on (6 hours ago)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 4 on (Dec 25, 8:02 PM)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 3 on (Dec 25, 7:25 PM)
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 2 on (Dec 25, 7:00 PM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 13 on (Dec 24, 6:35 PM)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 1 on (Dec 21, 7:13 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 11 on (Dec 21, 6:32 PM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 11 on (Dec 19, 12:14 AM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 10 on (Dec 14, 6:02 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 9 on (Dec 7, 1:46 AM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 10 on (Dec 3, 4:25 PM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 9 on (Dec 3, 4:25 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
