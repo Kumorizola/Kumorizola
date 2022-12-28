@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 12 on (7 minutes ago)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 11 on (Today, 1:46 AM)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 10 on (Today, 1:32 AM)
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 9 on (Today, 12:13 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 1 on (Dec 21, 7:13 PM)
 - 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 11 on (Dec 21, 6:32 PM)
 - 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 12 on (Dec 19, 8:26 PM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 11 on (Dec 19, 12:14 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
