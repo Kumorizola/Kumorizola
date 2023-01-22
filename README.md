@@ -50,19 +50,6 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 1 on (Jan 14, 6:36 PM)
-- 📺 Watched [Chainsaw Man](https://MyAnimeList.net/anime.php?id=44511) Episode 12 on (Dec 28, 2022 1:26 AM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 12 on (Dec 27, 2022 10:12 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 11 on (Dec 27, 2022 1:46 AM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 10 on (Dec 27, 2022 1:32 AM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 9 on (Dec 27, 2022 12:13 AM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 8 on (Dec 26, 2022 11:46 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 7 on (Dec 26, 2022 8:23 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 6 on (Dec 26, 2022 8:01 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 5 on (Dec 26, 2022 6:39 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 4 on (Dec 25, 2022 8:02 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 3 on (Dec 25, 2022 7:25 PM)
-- 📺 Watched [Bocchi the Rock!](https://MyAnimeList.net/anime.php?id=47917) Episode 2 on (Dec 25, 2022 7:00 PM)
-- 📺 Watched [Spy x Family Part 2](https://MyAnimeList.net/anime.php?id=50602) Episode 13 on (Dec 24, 2022 6:35 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
