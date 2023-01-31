@@ -49,12 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 5 on (Yesterday, 6:43 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 4 on (Yesterday, 6:27 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 3 on (Yesterday, 5:41 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 2 on (Yesterday, 4:40 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 1 on (Yesterday, 4:10 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 12 on (Yesterday, 1:45 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 5 on (Jan 29, 6:43 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 4 on (Jan 29, 6:27 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 3 on (Jan 29, 5:41 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 2 on (Jan 29, 4:40 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 1 on (Jan 29, 4:10 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 12 on (Jan 29, 1:45 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 11 on (Jan 28, 7:01 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 10 on (Jan 28, 6:37 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 9 on (Jan 28, 6:12 PM)
