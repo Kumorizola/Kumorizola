@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (3 hours ago)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 5 on (4 hours ago)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (4 hours ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 5 on (5 hours ago)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 4 on (Feb 1, 6:45 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 7 on (Jan 31, 6:07 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 6 on (Jan 31, 5:44 AM)
