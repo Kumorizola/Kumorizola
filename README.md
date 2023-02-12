@@ -49,7 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (11 hours ago)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 11 on (20 minutes ago)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 10 on (1 hour ago)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 9 on (1 hour ago)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (Today, 5:56 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 5 on (Today, 5:24 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 4 on (Feb 1, 6:45 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 7 on (Jan 31, 6:07 AM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 1 on (Jan 29, 4:10 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 12 on (Jan 29, 1:45 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 11 on (Jan 28, 7:01 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 10 on (Jan 28, 6:37 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 9 on (Jan 28, 6:12 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=37999) Episode 8 on (Jan 28, 6:56 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
