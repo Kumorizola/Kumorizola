@@ -49,10 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (11 hours ago)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (11 hours ago)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (11 hours ago)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 6 on (12 hours ago)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (Today, 6:36 AM)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (Today, 6:36 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (Today, 6:31 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 6 on (Today, 5:47 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 5 on (Today, 3:09 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 4 on (Today, 2:45 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 3 on (Today, 2:45 AM)
