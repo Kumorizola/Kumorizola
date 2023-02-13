@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (Today, 6:36 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (Today, 6:36 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (Today, 6:31 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 6 on (Today, 5:47 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 5 on (Today, 3:09 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 4 on (Today, 2:45 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 3 on (Today, 2:45 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 2 on (Yesterday, 11:21 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 1 on (Yesterday, 10:28 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai](https://MyAnimeList.net/anime.php?id=50325) Episode 1 on (Yesterday, 7:16 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 12 on (Yesterday, 6:53 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 11 on (Yesterday, 6:26 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 10 on (Yesterday, 5:46 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 9 on (Yesterday, 5:46 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (Yesterday, 5:56 AM)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (Yesterday, 6:36 AM)
+- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (Yesterday, 6:36 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (Yesterday, 6:31 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 6 on (Yesterday, 5:47 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 5 on (Yesterday, 3:09 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 4 on (Yesterday, 2:45 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 3 on (Yesterday, 2:45 AM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 2 on (Feb 11, 11:21 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 1 on (Feb 11, 10:28 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic Teaser PV - Ishigami Yuu wa Kataritai](https://MyAnimeList.net/anime.php?id=50325) Episode 1 on (Feb 11, 7:16 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 12 on (Feb 11, 6:53 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 11 on (Feb 11, 6:26 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 10 on (Feb 11, 5:46 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 9 on (Feb 11, 5:46 PM)
+- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (Feb 11, 5:56 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
