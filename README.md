@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 8 on (9 minutes ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 6 on (36 minutes ago)
 - 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (Feb 12, 6:36 AM)
 - 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (Feb 12, 6:36 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (Feb 12, 6:31 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 12 on (Feb 11, 6:53 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 11 on (Feb 11, 6:26 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 10 on (Feb 11, 5:46 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 9 on (Feb 11, 5:46 PM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen](https://MyAnimeList.net/anime.php?id=40591) Episode 8 on (Feb 11, 5:56 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
