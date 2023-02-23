@@ -49,6 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 5 on (51 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 4 on (51 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 3 on (51 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 2 on (51 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 1 on (51 minutes ago)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 13 on (Feb 17, 8:54 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 12 on (Feb 17, 8:08 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 11 on (Feb 17, 8:08 PM)
@@ -59,11 +64,6 @@
 - 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (Feb 12, 6:36 AM)
 - 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (Feb 12, 6:36 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (Feb 12, 6:31 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 6 on (Feb 12, 5:47 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 5 on (Feb 12, 3:09 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 4 on (Feb 12, 2:45 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 3 on (Feb 12, 2:45 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 2 on (Feb 11, 11:21 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
