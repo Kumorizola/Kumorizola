@@ -49,6 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 10 on (2 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 9 on (2 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 8 on (2 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 7 on (2 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 6 on (2 minutes ago)
 - 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 5 on (Yesterday, 6:26 AM)
 - 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 4 on (Yesterday, 6:26 AM)
 - 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 3 on (Yesterday, 6:26 AM)
@@ -59,11 +64,6 @@
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 11 on (Feb 17, 8:08 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 10 on (Feb 17, 8:08 PM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 9 on (Feb 17, 6:24 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 8 on (Feb 17, 6:05 AM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 6 on (Feb 17, 5:38 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 12 on (Feb 12, 6:36 AM)
-- 📺 Watched [Komi-san wa, Comyushou desu.](https://MyAnimeList.net/anime.php?id=48926) Episode 11 on (Feb 12, 6:36 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: Ultra Romantic](https://MyAnimeList.net/anime.php?id=43608) Episode 7 on (Feb 12, 6:31 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
