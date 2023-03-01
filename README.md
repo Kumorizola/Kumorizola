@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 5 on (2 hours ago)
-- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 4 on (3 hours ago)
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 5 on (3 hours ago)
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 4 on (4 hours ago)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 3 on (Feb 26, 8:28 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 2 on (Feb 26, 8:09 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 1 on (Feb 26, 8:09 AM)
