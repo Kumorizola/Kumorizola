@@ -49,8 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 8 on (5 hours ago)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 7 on (5 hours ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 8 on (7 hours ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 7 on (7 hours ago)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 5 on (Mar 1, 6:58 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 4 on (Mar 1, 6:34 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 3 on (Feb 26, 8:28 AM)
