@@ -49,6 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 8 on (2 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 7 on (2 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 6 on (1 hour ago)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 10 on (Mar 15, 2:49 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 9 on (Mar 7, 10:14 PM)
 - 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 12 on (Mar 7, 10:12 PM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 2 on (Feb 26, 8:09 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 1 on (Feb 26, 8:09 AM)
 - 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 13 on (Feb 26, 8:09 AM)
-- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 12 on (Feb 26, 8:09 AM)
-- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 11 on (Feb 26, 8:09 AM)
-- 📺 Watched [Hataraku Maou-sama!](https://MyAnimeList.net/anime.php?id=15809) Episode 10 on (Feb 24, 6:13 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
