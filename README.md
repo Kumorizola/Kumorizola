@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 10 on (8 minutes ago)
+- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 9 on (8 minutes ago)
 - 📺 Watched [Dr. Stone: Ryuusui](https://MyAnimeList.net/anime.php?id=50612) Episode 1 on (Yesterday, 8:43 PM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 11 on (Yesterday, 6:45 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 8 on (Mar 17, 6:15 PM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 7 on (Mar 5, 1:45 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 5 on (Mar 1, 6:58 AM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 4 on (Mar 1, 6:34 AM)
-- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 3 on (Feb 26, 8:28 AM)
-- 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 2 on (Feb 26, 8:09 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
