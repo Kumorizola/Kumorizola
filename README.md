@@ -49,12 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 6 on (2 hours ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 5 on (2 hours ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 4 on (2 hours ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 3 on (2 hours ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 2 on (3 hours ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 1 on (3 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 6 on (3 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 5 on (3 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 4 on (3 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 3 on (4 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 2 on (4 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 1 on (4 hours ago)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 12 on (Yesterday, 8:20 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 11 on (Yesterday, 8:03 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 10 on (Yesterday, 7:26 PM)
