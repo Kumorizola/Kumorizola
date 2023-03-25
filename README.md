@@ -49,9 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 3 on (27 minutes ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 2 on (55 minutes ago)
-- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 1 on (1 hour ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 6 on (60 minutes ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 5 on (60 minutes ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 4 on (60 minutes ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 3 on (2 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 2 on (2 hours ago)
+- 📺 Watched [Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II](https://MyAnimeList.net/anime.php?id=48417) Episode 1 on (3 hours ago)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 12 on (Yesterday, 8:20 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 11 on (Yesterday, 8:03 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 10 on (Yesterday, 7:26 PM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 8 on (Mar 17, 6:15 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 7 on (Mar 17, 6:15 PM)
 - 📺 Watched [Hataraku Maou-sama!!](https://MyAnimeList.net/anime.php?id=48413) Episode 6 on (Mar 17, 5:16 PM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 10 on (Mar 15, 2:49 AM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 9 on (Mar 7, 10:14 PM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season Part 2](https://MyAnimeList.net/anime.php?id=48583) Episode 12 on (Mar 7, 10:12 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
