@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://MyAnimeList.net/anime.php?id=37450) Episode 13 on (56 minutes ago)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 12 on (Mar 31, 9:35 PM)
 - 📖 Read [Sousou no Frieren](https://MyAnimeList.net/manga.php?id=126287) Chapter 1 on (Mar 31, 9:37 PM)
 - 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 279 on (Mar 31, 9:35 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 7 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 6 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 5 on (Mar 25, 7:02 PM)
-- 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 4 on (Mar 25, 7:02 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
