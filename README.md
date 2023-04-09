@@ -49,7 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 1 on (13 minutes ago)
+- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 1 on (32 minutes ago)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 1 on (57 minutes ago)
 - 📺 Watched [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://MyAnimeList.net/anime.php?id=37450) Episode 13 on (Apr 3, 2:19 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 12 on (Mar 31, 9:35 PM)
 - 📖 Read [Sousou no Frieren](https://MyAnimeList.net/manga.php?id=126287) Chapter 1 on (Mar 31, 9:37 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 9 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 8 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 7 on (Mar 25, 7:02 PM)
-- 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 6 on (Mar 25, 7:02 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
