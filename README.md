@@ -50,12 +50,9 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 1 on (4 hours ago)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 1 on (4 hours ago)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 1 on (5 hours ago)
 - 📺 Watched [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://MyAnimeList.net/anime.php?id=37450) Episode 13 on (Apr 3, 2:19 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 12 on (Mar 31, 9:35 PM)
-- 📖 Read [Sousou no Frieren](https://MyAnimeList.net/manga.php?id=126287) Chapter 1 on (Mar 31, 9:37 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 279 on (Mar 31, 9:35 PM)
-- 📖 Read [Tokyo卍Revengers](https://MyAnimeList.net/manga.php?id=104565) Chapter 2 on (Mar 31, 9:35 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 11 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 10 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers](https://MyAnimeList.net/anime.php?id=42249) Episode 24 on (Mar 25, 7:02 PM)
@@ -64,6 +61,9 @@
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 9 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 8 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 7 on (Mar 25, 7:02 PM)
+- 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 6 on (Mar 25, 7:02 PM)
+- 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 5 on (Mar 25, 7:02 PM)
+- 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 4 on (Mar 25, 7:02 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
