@@ -49,11 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (41 minutes ago)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 3 on (4 hours ago)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 2 on (4 hours ago)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 1 on (4 hours ago)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 2 on (5 hours ago)
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (18 minutes ago)
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (2 hours ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 3 on (5 hours ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 2 on (5 hours ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 1 on (5 hours ago)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 2 on (6 hours ago)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 2 on (Apr 14, 12:39 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 14 on (Apr 14, 12:11 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 13 on (Apr 13, 11:40 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 12 on (Mar 31, 9:35 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 11 on (Mar 25, 7:02 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 10 on (Mar 25, 7:02 PM)
-- 📺 Watched [Tokyo Revengers](https://MyAnimeList.net/anime.php?id=42249) Episode 24 on (Mar 25, 7:02 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
