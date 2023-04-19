@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 15 on (2 hours ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 15 on (3 hours ago)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 16, 12:59 AM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 15, 11:31 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 3 on (Apr 15, 8:38 PM)
