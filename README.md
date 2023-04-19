@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 15 on (52 minutes ago)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 16, 12:59 AM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 15, 11:31 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 3 on (Apr 15, 8:38 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai](https://MyAnimeList.net/anime.php?id=37450) Episode 13 on (Apr 3, 2:19 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 12 on (Mar 31, 9:35 PM)
 - 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 11 on (Mar 25, 7:02 PM)
-- 📺 Watched [Tokyo Revengers: Seiya Kessen-hen](https://MyAnimeList.net/anime.php?id=50608) Episode 10 on (Mar 25, 7:02 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
