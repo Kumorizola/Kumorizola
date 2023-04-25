@@ -49,9 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 3 on (10 hours ago)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 3 on (10 hours ago)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 4 on (10 hours ago)
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 2 on (35 seconds ago)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 3 on (11 hours ago)
+- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 3 on (11 hours ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 4 on (11 hours ago)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 15 on (Apr 18, 11:21 PM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 16, 12:59 AM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 15, 11:31 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 14 on (Apr 14, 12:11 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 13 on (Apr 13, 11:40 PM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 1 on (Apr 8, 7:42 PM)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 1 on (Apr 8, 7:17 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
