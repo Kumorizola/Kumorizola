@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 5 on (27 minutes ago)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 17 on (Yesterday, 4:39 AM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 4 on (Yesterday, 3:26 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 16 on (Apr 25, 10:59 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 2 on (Apr 15, 8:14 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 1 on (Apr 15, 7:49 PM)
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 2 on (Apr 15, 7:15 PM)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 2 on (Apr 14, 12:39 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
