@@ -49,9 +49,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 3 on (21 minutes ago)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 5 on (22 minutes ago)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 5 on (22 minutes ago)
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 4 on (1 hour ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (1 hour ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 7 on (1 hour ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (1 hour ago)
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 3 on (2 hours ago)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 5 on (2 hours ago)
+- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 5 on (2 hours ago)
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 4 on (May 3, 3:47 AM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 5 on (May 3, 2:48 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 17 on (May 2, 4:39 AM)
@@ -60,10 +64,6 @@
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 2 on (Apr 25, 6:18 AM)
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 3 on (Apr 24, 7:31 PM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 3 on (Apr 24, 7:31 PM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 4 on (Apr 24, 7:31 PM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 15 on (Apr 18, 11:21 PM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 16, 12:59 AM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 1 on (Apr 15, 11:31 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
