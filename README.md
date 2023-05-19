@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 7 on (10 minutes ago)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 6 on (May 16, 4:50 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://MyAnimeList.net/anime.php?id=52198) Episode 1 on (May 16, 4:50 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 19 on (May 16, 4:34 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 5 on (May 6, 5:56 PM)
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 4 on (May 3, 3:47 AM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 5 on (May 3, 2:48 AM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 17 on (May 2, 4:39 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
