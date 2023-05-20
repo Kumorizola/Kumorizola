@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 5 on (9 minutes ago)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 7 on (Today, 3:04 AM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 6 on (May 16, 4:50 AM)
 - 📺 Watched [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://MyAnimeList.net/anime.php?id=52198) Episode 1 on (May 16, 4:50 AM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 5 on (May 6, 5:56 PM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 5 on (May 6, 5:56 PM)
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 4 on (May 3, 3:47 AM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 5 on (May 3, 2:48 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
