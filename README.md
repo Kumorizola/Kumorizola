@@ -49,6 +49,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 6 on (19 minutes ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 8 on (20 minutes ago)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 5 on (Yesterday, 11:08 PM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 7 on (Yesterday, 3:04 AM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 6 on (May 16, 4:50 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (May 6, 6:22 PM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 3 on (May 6, 5:57 PM)
 - 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 5 on (May 6, 5:56 PM)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 5 on (May 6, 5:56 PM)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 4 on (May 3, 3:47 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
