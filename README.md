@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Jujutsu Kaisen 0 Movie](https://MyAnimeList.net/anime.php?id=48561) Episode 1 on (12 minutes ago)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 6 on (May 20, 6:00 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 8 on (May 20, 6:00 PM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 5 on (May 19, 11:08 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 7 on (May 6, 6:22 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (May 6, 6:22 PM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 3 on (May 6, 5:57 PM)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 5 on (May 6, 5:56 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
