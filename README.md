@@ -49,7 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 0 Movie](https://MyAnimeList.net/anime.php?id=48561) Episode 1 on (12 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 1 on (25 minutes ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 20 on (29 minutes ago)
+- 📺 Watched [Jujutsu Kaisen 0 Movie](https://MyAnimeList.net/anime.php?id=48561) Episode 1 on (54 minutes ago)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 6 on (May 20, 6:00 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 8 on (May 20, 6:00 PM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 5 on (May 19, 11:08 PM)
@@ -62,8 +64,6 @@
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 4 on (May 6, 6:23 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (May 6, 6:22 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 7 on (May 6, 6:22 PM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (May 6, 6:22 PM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 3 on (May 6, 5:57 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
