@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 8 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 11 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 10 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 9 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 7 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 6 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 12 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 5 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 4 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 3 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 2 on (28 minutes ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 1 on (May 22, 7:50 PM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 20 on (May 22, 7:45 PM)
 - 📺 Watched [Jujutsu Kaisen 0 Movie](https://MyAnimeList.net/anime.php?id=48561) Episode 1 on (May 22, 7:20 PM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 6 on (May 20, 6:00 PM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 8 on (May 20, 6:00 PM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 5 on (May 19, 11:08 PM)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 7 on (May 19, 3:04 AM)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 6 on (May 16, 4:50 AM)
-- 📺 Watched [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://MyAnimeList.net/anime.php?id=52198) Episode 1 on (May 16, 4:50 AM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 19 on (May 16, 4:34 AM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 18 on (May 16, 4:09 AM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 7 on (May 13, 5:23 PM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 4 on (May 6, 6:23 PM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 6 on (May 6, 6:22 PM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 7 on (May 6, 6:22 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
