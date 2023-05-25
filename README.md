@@ -49,6 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 16 on (46 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 18 on (46 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 17 on (46 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 15 on (46 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 14 on (47 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 13 on (47 minutes ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 8 on (8 hours ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 11 on (8 hours ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 10 on (8 hours ago)
@@ -58,12 +64,6 @@
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 12 on (8 hours ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 5 on (8 hours ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 4 on (8 hours ago)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 3 on (8 hours ago)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 2 on (8 hours ago)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 1 on (May 22, 7:50 PM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 20 on (May 22, 7:45 PM)
-- 📺 Watched [Jujutsu Kaisen 0 Movie](https://MyAnimeList.net/anime.php?id=48561) Episode 1 on (May 22, 7:20 PM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 6 on (May 20, 6:00 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
