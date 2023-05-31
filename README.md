@@ -49,7 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 21 on (12 hours ago)
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 21 on (Yesterday, 7:24 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 53 on (Yesterday, 6:57 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 54 on (Yesterday, 6:56 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 52 on (Yesterday, 2:54 AM)
