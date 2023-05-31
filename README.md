@@ -49,6 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 21 on (28 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 53 on (55 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 54 on (56 minutes ago)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 52 on (Today, 2:54 AM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 51 on (Today, 2:54 AM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 50 on (Today, 2:54 AM)
@@ -61,9 +64,6 @@
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 36 on (May 28, 10:24 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 35 on (May 28, 10:24 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 33 on (May 28, 10:24 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 30 on (May 28, 10:24 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 26 on (May 28, 10:24 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 25 on (May 28, 10:24 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
