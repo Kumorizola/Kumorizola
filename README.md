@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 85 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 84 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 82 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 83 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 81 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 78 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 79 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 76 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 77 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 74 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 75 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 73 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 72 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 71 on (Yesterday, 7:10 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 80 on (Yesterday, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 85 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 84 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 82 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 83 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 81 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 78 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 79 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 76 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 77 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 74 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 75 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 73 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 72 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 71 on (Jun 1, 7:10 PM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 80 on (Jun 1, 7:10 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
