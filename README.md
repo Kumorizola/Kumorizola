@@ -49,21 +49,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 9 on (9 hours ago)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 108 on (10 hours ago)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 105 on (Yesterday, 9:07 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 103 on (Yesterday, 9:07 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 107 on (Yesterday, 9:07 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 99 on (Yesterday, 9:06 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 106 on (Yesterday, 9:06 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 104 on (Yesterday, 9:06 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 102 on (Yesterday, 9:06 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 100 on (Yesterday, 9:06 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 101 on (Yesterday, 9:06 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 96 on (Yesterday, 1:54 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 94 on (Yesterday, 1:54 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 95 on (Yesterday, 1:53 AM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 87 on (Yesterday, 1:53 AM)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 122 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 121 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 120 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 119 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 118 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 115 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 113 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 114 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 112 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 110 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 109 on (2 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 117 on (3 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 116 on (3 minutes ago)
+- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 111 on (3 minutes ago)
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 9 on (10 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
