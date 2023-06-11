@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 10 on (51 minutes ago)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 10 on (Yesterday, 10:03 AM)
 - 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 8 on (Yesterday, 9:41 AM)
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 22 on (Jun 5, 7:31 PM)
@@ -63,7 +64,6 @@
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 126 on (Jun 5, 7:01 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 124 on (Jun 5, 7:01 PM)
 - 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 125 on (Jun 5, 7:01 PM)
-- 📺 Watched [Black Clover](https://MyAnimeList.net/anime.php?id=34572) Episode 123 on (Jun 5, 7:01 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
