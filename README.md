@@ -59,10 +59,6 @@
 - 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 24 on (Jun 19, 10:34 PM)
 - 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 11 on (Jun 18, 9:41 PM)
 - 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 11 on (Jun 18, 9:14 PM)
-- 📺 Watched [Vinland Saga Season 2](https://MyAnimeList.net/anime.php?id=49387) Episode 23 on (Jun 12, 1:15 PM)
-- 📺 Watched [Jigokuraku](https://MyAnimeList.net/anime.php?id=46569) Episode 10 on (Jun 11, 6:21 AM)
-- 📺 Watched [Dr. Stone: New World](https://MyAnimeList.net/anime.php?id=48549) Episode 10 on (Jun 10, 10:03 AM)
-- 📺 Watched ["Oshi no Ko"](https://MyAnimeList.net/anime.php?id=52034) Episode 8 on (Jun 10, 9:41 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
