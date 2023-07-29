@@ -49,9 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 3 on (5 hours ago)
-- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 4 on (6 hours ago)
-- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 3 on (6 hours ago)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 3 on (6 hours ago)
+- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 4 on (7 hours ago)
+- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 3 on (7 hours ago)
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 2 on (Jul 18, 6:46 PM)
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 1 on (Jul 18, 6:46 PM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 2 on (Jul 14, 7:39 AM)
