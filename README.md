@@ -49,8 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 5 on (Aug 5, 5:34 PM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 4 on (Aug 5, 7:05 AM)
+
 
 <!-- MAL_ACTIVITY:end -->
 
