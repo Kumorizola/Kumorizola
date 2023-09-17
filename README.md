@@ -49,7 +49,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 6 on (1 hour ago)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 4 on (1 hour ago)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 3 on (1 hour ago)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 2 on (1 hour ago)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 1 on (1 hour ago)
 
 <!-- MAL_ACTIVITY:end -->
 
