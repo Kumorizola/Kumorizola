@@ -49,12 +49,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 7 on (Yesterday, 6:09 PM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 6 on (Yesterday, 5:04 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 4 on (Yesterday, 5:05 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 3 on (Yesterday, 5:05 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 2 on (Yesterday, 5:05 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 1 on (Yesterday, 5:05 PM)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 7 on (Sep 16, 6:09 PM)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 6 on (Sep 16, 5:04 PM)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 4 on (Sep 16, 5:05 PM)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 3 on (Sep 16, 5:05 PM)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 2 on (Sep 16, 5:05 PM)
+- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 1 on (Sep 16, 5:05 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
