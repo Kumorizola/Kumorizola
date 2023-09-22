@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 9 on (17 minutes ago)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 8 on (Yesterday, 3:59 AM)
 - 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 1 on (Yesterday, 5:19 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 7 on (Sep 16, 6:09 PM)
