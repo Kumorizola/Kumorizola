@@ -49,9 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 9 on (Today, 2:58 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 8 on (Yesterday, 3:59 AM)
-- 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 1 on (Yesterday, 5:19 AM)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 9 on (Yesterday, 2:58 AM)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 8 on (Sep 21, 3:59 AM)
+- 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 1 on (Sep 21, 5:19 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 7 on (Sep 16, 6:09 PM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 6 on (Sep 16, 5:04 PM)
 - 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 4 on (Sep 16, 5:05 PM)
