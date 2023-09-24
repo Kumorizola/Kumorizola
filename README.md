@@ -49,6 +49,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 5 on (28 minutes ago)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 9 on (Sep 22, 2:58 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 8 on (Sep 21, 3:59 AM)
 - 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 1 on (Sep 21, 5:19 AM)
