@@ -49,18 +49,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 1 on (Today, 6:42 AM)
+- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 1 on (Yesterday, 6:42 AM)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 1 on (Oct 9, 4:54 AM)
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 5 on (Sep 24, 6:43 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 9 on (Sep 22, 2:58 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 8 on (Sep 21, 3:59 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 7 on (Sep 16, 6:09 PM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 6 on (Sep 16, 5:04 PM)
-- 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 1 on (Sep 21, 5:19 AM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 4 on (Sep 16, 5:05 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 3 on (Sep 16, 5:05 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 2 on (Sep 16, 5:05 PM)
-- 📖 Read [Suki na Ko ga Megane wo Wasureta](https://MyAnimeList.net/manga.php?id=117332) Chapter 1 on (Sep 16, 5:05 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
