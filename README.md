@@ -49,7 +49,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 7 on (11 hours ago)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 12 on (4 minutes ago)
+- 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 7 on (39 minutes ago)
+- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 7 on (Today, 6:13 AM)
 - 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 6 on (Yesterday, 8:01 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 11 on (Nov 19, 1:41 PM)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 6 on (Nov 15, 5:17 AM)
@@ -62,8 +64,6 @@
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 6 on (Nov 8, 5:32 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 5 on (Nov 7, 4:49 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 4 on (Nov 7, 4:49 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 3 on (Nov 4, 6:52 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 2 on (Nov 3, 7:42 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
