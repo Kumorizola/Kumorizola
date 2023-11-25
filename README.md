@@ -7,9 +7,6 @@
 <details>
       <summary>Connect with me</summary>
     <p align="left">
-        <a href="https://www.facebook.com/kumori.hartley.1" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-                alt="kumori hartley" height="30" width="40" /></a>
         <a href="https://www.instagram.com/kumorizola/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="kumorizola" height="30" width="40" /></a>
