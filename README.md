@@ -46,9 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 8 on (50 minutes ago)
-- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 9 on (7 hours ago)
-- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 8 on (7 hours ago)
+- 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 8 on (2 hours ago)
+- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 9 on (8 hours ago)
+- 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 8 on (8 hours ago)
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 7 on (Yesterday, 12:59 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 12 on (Nov 24, 6:18 PM)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 7 on (Nov 24, 5:42 PM)
