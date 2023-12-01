@@ -46,7 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 8 on (12 minutes ago)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 19 on (48 minutes ago)
+- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 8 on (1 hour ago)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 18 on (Nov 27, 6:39 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 17 on (Nov 27, 6:39 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 16 on (Nov 27, 6:39 AM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 9 on (Nov 25, 6:56 PM)
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 8 on (Nov 25, 6:56 PM)
 - 📺 Watched [Rurouni Kenshin: Meiji Kenkaku Romantan (2023)](https://MyAnimeList.net/anime.php?id=50613) Episode 7 on (Nov 25, 12:59 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 12 on (Nov 24, 6:18 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
