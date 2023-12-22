@@ -46,8 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 22 on (11 hours ago)
-- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 11 on (12 hours ago)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 22 on (Yesterday, 10:59 PM)
+- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 11 on (Yesterday, 10:36 PM)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 11 on (Dec 18, 7:50 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 21 on (Dec 18, 7:49 AM)
 - 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 10 on (Dec 18, 7:48 AM)
