@@ -58,9 +58,6 @@
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 13 on (Dec 2, 8:17 PM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 19 on (Dec 1, 6:27 AM)
 - 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 8 on (Dec 1, 6:02 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 18 on (Nov 27, 6:39 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 17 on (Nov 27, 6:39 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 16 on (Nov 27, 6:39 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
