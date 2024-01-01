@@ -46,7 +46,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 23 on (5 hours ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 10 on (44 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 9 on (44 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 8 on (44 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 7 on (44 minutes ago)
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 23 on (6 hours ago)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 12 on (Dec 24, 2023 5:43 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 15 on (Dec 24, 2023 5:19 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 14 on (Dec 24, 2023 5:19 AM)
@@ -57,9 +61,6 @@
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 11 on (Dec 18, 2023 7:50 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 21 on (Dec 18, 2023 7:49 AM)
 - 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 10 on (Dec 18, 2023 7:48 AM)
-- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 20 on (Dec 13, 2023 6:42 AM)
-- 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 10 on (Dec 11, 2023 5:59 AM)
-- 📺 Watched [Dr. Stone: New World Part 2](https://MyAnimeList.net/anime.php?id=55644) Episode 9 on (Dec 9, 2023 6:20 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
