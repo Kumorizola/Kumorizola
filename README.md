@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 23 on (55 minutes ago)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 12 on (Dec 24, 5:43 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 15 on (Dec 24, 5:19 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 14 on (Dec 24, 5:19 AM)
