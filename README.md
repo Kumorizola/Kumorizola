@@ -46,11 +46,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 16 on (Yesterday, 6:00 PM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 14 on (Yesterday, 5:54 PM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 13 on (Yesterday, 5:54 PM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 12 on (Yesterday, 5:54 PM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 11 on (Yesterday, 5:54 PM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 16 on (Jan 2, 6:00 PM)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 14 on (Jan 2, 5:54 PM)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 13 on (Jan 2, 5:54 PM)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 12 on (Jan 2, 5:54 PM)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 11 on (Jan 2, 5:54 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 10 on (Jan 1, 2:27 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 9 on (Jan 1, 2:27 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 8 on (Jan 1, 2:27 AM)
