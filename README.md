@@ -46,6 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 1 on (4 minutes ago)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 1 on (33 minutes ago)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://MyAnimeList.net/anime.php?id=51096) Episode 13 on (33 minutes ago)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e](https://MyAnimeList.net/anime.php?id=35507) Episode 12 on (34 minutes ago)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 16 on (Jan 2, 6:00 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 14 on (Jan 2, 5:54 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 13 on (Jan 2, 5:54 PM)
@@ -57,10 +61,6 @@
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 7 on (Jan 1, 2:27 AM)
 - 📺 Watched [Jujutsu Kaisen 2nd Season](https://MyAnimeList.net/anime.php?id=51009) Episode 23 on (Dec 31, 2023 9:25 PM)
 - 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 12 on (Dec 24, 2023 5:43 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 15 on (Dec 24, 2023 5:19 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 14 on (Dec 24, 2023 5:19 AM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 6 on (Dec 24, 2023 5:19 AM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 5 on (Dec 24, 2023 5:19 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
