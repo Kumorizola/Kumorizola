@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 2 on (20 minutes ago)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 1 on (Jan 6, 5:08 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 1 on (Jan 6, 4:39 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season](https://MyAnimeList.net/anime.php?id=51096) Episode 13 on (Jan 6, 4:39 PM)
@@ -60,7 +61,6 @@
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 9 on (Jan 1, 2:27 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 8 on (Jan 1, 2:27 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 7 on (Jan 1, 2:27 AM)
-- 📺 Watched [Spy x Family Season 2](https://MyAnimeList.net/anime.php?id=53887) Episode 12 on (Dec 24, 2023 5:43 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
