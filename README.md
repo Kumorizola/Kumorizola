@@ -46,21 +46,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 3 on (Today, 6:35 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 19 on (Today, 6:34 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 7 on (Today, 6:10 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 6 on (Today, 6:10 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 5 on (Today, 6:10 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 4 on (Today, 6:10 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 3 on (Today, 6:10 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 2 on (Today, 6:10 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 1 on (Today, 6:10 AM)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 3 on (Yesterday, 6:35 AM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 19 on (Yesterday, 6:34 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 7 on (Yesterday, 6:10 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 6 on (Yesterday, 6:10 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 5 on (Yesterday, 6:10 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 4 on (Yesterday, 6:10 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 3 on (Yesterday, 6:10 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 2 on (Yesterday, 6:10 AM)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 1 on (Yesterday, 6:10 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 2 on (Jan 14, 12:52 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 18 on (Jan 12, 3:54 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 17 on (Jan 12, 3:54 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 2 on (Jan 11, 5:54 AM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 20 on (Jan 11, 7:50 AM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 19 on (Jan 11, 7:50 AM)
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 1 on (Jan 6, 5:08 PM)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 1 on (Jan 6, 4:39 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
