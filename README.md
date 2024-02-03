@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 21 on (1 hour ago)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 5 on (1 hour ago)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 4 on (Jan 30, 1:58 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 20 on (Jan 30, 1:56 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 4 on (Jan 29, 2:57 PM)
@@ -59,8 +61,6 @@
 - 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 3 on (Jan 20, 6:10 AM)
 - 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 2 on (Jan 20, 6:10 AM)
 - 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 1 on (Jan 20, 6:10 AM)
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 2 on (Jan 14, 12:52 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 18 on (Jan 12, 3:54 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
