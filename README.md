@@ -46,8 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 6 on (Yesterday, 7:21 PM)
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 5 on (Yesterday, 6:58 PM)
+- 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 6 on (Feb 7, 7:21 PM)
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 5 on (Feb 7, 6:58 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 21 on (Feb 2, 5:13 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 5 on (Feb 2, 5:13 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 4 on (Jan 30, 1:58 AM)
