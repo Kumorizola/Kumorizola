@@ -46,14 +46,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 22 on (Today, 5:00 AM)
-- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 21 on (Today, 5:00 AM)
-- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 1 on (Yesterday, 9:55 PM)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 12 on (Yesterday, 9:54 PM)
-- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 12 on (Yesterday, 9:54 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 22 on (Yesterday, 4:25 PM)
+- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 1 on (Feb 9, 9:55 PM)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 12 on (Feb 9, 9:54 PM)
+- 📺 Watched [Mashle](https://MyAnimeList.net/anime.php?id=52211) Episode 12 on (Feb 9, 9:54 PM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 22 on (Feb 9, 4:25 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 6 on (Feb 7, 7:21 PM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 5 on (Feb 7, 6:58 PM)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 22 on (Yesterday, 5:00 AM)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 21 on (Yesterday, 5:00 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 21 on (Feb 2, 5:13 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 5 on (Feb 2, 5:13 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 4 on (Jan 30, 1:58 AM)
