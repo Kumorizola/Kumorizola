@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 7 on (27 minutes ago)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 23 on (Feb 18, 7:42 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 6 on (Feb 13, 3:49 PM)
 - 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 5 on (Feb 11, 12:49 AM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 5 on (Feb 7, 6:58 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 22 on (Feb 10, 5:00 AM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 21 on (Feb 10, 5:00 AM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 21 on (Feb 2, 5:13 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
