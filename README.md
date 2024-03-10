@@ -46,6 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 9 on (40 minutes ago)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (41 minutes ago)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (41 minutes ago)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Yesterday, 7:20 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 25 on (Yesterday, 9:48 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 8 on (Mar 3, 10:38 PM)
@@ -58,9 +61,6 @@
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 6 on (Feb 13, 3:49 PM)
 - 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 5 on (Feb 11, 12:49 AM)
 - 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 4 on (Feb 11, 12:49 AM)
-- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 3 on (Feb 11, 12:49 AM)
-- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 2 on (Feb 11, 12:49 AM)
-- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 1 on (Feb 9, 9:55 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
