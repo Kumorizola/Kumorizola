@@ -46,9 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 9 on (12 hours ago)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (12 hours ago)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (12 hours ago)
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 9 on (Yesterday, 8:33 PM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Yesterday, 8:33 PM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (Yesterday, 8:33 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Mar 8, 7:20 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 25 on (Mar 8, 9:48 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 8 on (Mar 3, 10:38 PM)
