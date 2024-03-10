@@ -46,11 +46,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 9 on (3 hours ago)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (3 hours ago)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (3 hours ago)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Yesterday, 7:20 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 25 on (Yesterday, 9:48 AM)
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 9 on (4 hours ago)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (4 hours ago)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (4 hours ago)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Mar 8, 7:20 PM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 25 on (Mar 8, 9:48 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 8 on (Mar 3, 10:38 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 24 on (Mar 1, 5:31 PM)
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 9 on (Mar 1, 4:58 PM)
@@ -58,9 +58,6 @@
 - 📺 Watched [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season](https://MyAnimeList.net/anime.php?id=51180) Episode 7 on (Feb 23, 7:41 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 7 on (Feb 20, 5:45 AM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 23 on (Feb 18, 7:42 AM)
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 6 on (Feb 13, 3:49 PM)
-- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 5 on (Feb 11, 12:49 AM)
-- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 4 on (Feb 11, 12:49 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
