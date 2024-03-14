@@ -46,6 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 22 on (40 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 21 on (40 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 20 on (40 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 19 on (40 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 18 on (40 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 17 on (40 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 16 on (40 minutes ago)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 15 on (Yesterday, 7:50 PM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 14 on (Yesterday, 7:50 PM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 13 on (Mar 11, 6:12 AM)
@@ -54,13 +61,6 @@
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 10 on (Mar 11, 6:12 AM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 9 on (Mar 11, 6:12 AM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 8 on (Mar 10, 6:23 PM)
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 9 on (Mar 9, 8:33 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Mar 9, 8:33 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (Mar 9, 8:33 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 26 on (Mar 8, 7:20 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 25 on (Mar 8, 9:48 AM)
-- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 8 on (Mar 3, 10:38 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 24 on (Mar 1, 5:31 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
