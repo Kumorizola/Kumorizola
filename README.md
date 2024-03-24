@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 11 on (21 minutes ago)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 23 on (Yesterday, 11:50 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 28 on (Yesterday, 11:16 PM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 10 on (Mar 16, 4:59 PM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 15 on (Mar 12, 7:50 PM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 14 on (Mar 12, 7:50 PM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 13 on (Mar 11, 6:12 AM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 12 on (Mar 11, 6:12 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
