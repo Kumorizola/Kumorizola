@@ -46,6 +46,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 30 on (36 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 29 on (37 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 28 on (37 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 27 on (37 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 26 on (37 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 25 on (37 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 24 on (37 minutes ago)
+- 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 23 on (37 minutes ago)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 24 on (Mar 23, 7:38 PM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 11 on (Mar 23, 7:03 PM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 23 on (Mar 22, 11:50 PM)
@@ -53,14 +61,6 @@
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 10 on (Mar 16, 4:59 PM)
 - 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 27 on (Mar 16, 4:26 PM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 22 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 21 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 20 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 19 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 18 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 17 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 16 on (Mar 13, 10:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 15 on (Mar 12, 7:50 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 14 on (Mar 12, 7:50 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
