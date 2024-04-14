@@ -46,11 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 2 on (Yesterday, 11:28 PM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 1 on (Yesterday, 7:29 AM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 2 on (Apr 12, 11:28 PM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 1 on (Apr 12, 7:29 AM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 12 on (Apr 1, 7:42 AM)
 - 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 24 on (Mar 23, 7:38 PM)
 - 📺 Watched [Ore dake Level Up na Ken](https://MyAnimeList.net/anime.php?id=52299) Episode 11 on (Mar 23, 7:03 PM)
+- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 23 on (Mar 22, 11:50 PM)
+- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 28 on (Mar 22, 11:16 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 30 on (Mar 28, 7:38 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 29 on (Mar 28, 7:38 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 28 on (Mar 28, 7:38 PM)
@@ -59,8 +61,6 @@
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 25 on (Mar 28, 7:38 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 24 on (Mar 28, 7:38 PM)
 - 📖 Read [Sakamoto Days](https://MyAnimeList.net/manga.php?id=131334) Chapter 23 on (Mar 28, 7:38 PM)
-- 📺 Watched [Kusuriya no Hitorigoto](https://MyAnimeList.net/anime.php?id=54492) Episode 23 on (Mar 22, 11:50 PM)
-- 📺 Watched [Sousou no Frieren](https://MyAnimeList.net/anime.php?id=52991) Episode 28 on (Mar 22, 11:16 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
