@@ -51,8 +51,6 @@
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 5 on (Apr 26, 5:41 PM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 4 on (Apr 26, 5:41 PM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 3 on (Apr 26, 5:41 PM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 2 on (Apr 12, 11:28 PM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 1 on (Apr 12, 7:29 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
