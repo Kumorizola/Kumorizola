@@ -46,7 +46,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-
+- 📺 Watched [Tensei shitara Slime Datta Ken 3rd Season](https://MyAnimeList.net/anime.php?id=53580) Episode 1 on (Apr 26, 6:14 PM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 6 on (Apr 26, 5:41 PM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 5 on (Apr 26, 5:41 PM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 4 on (Apr 26, 5:41 PM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 3 on (Apr 26, 5:41 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
