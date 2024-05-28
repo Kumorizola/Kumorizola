@@ -46,16 +46,16 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 8 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 7 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 6 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 5 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 4 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 3 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 2 on (Today, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 1 on (Today, 4:19 AM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 10 on (Yesterday, 5:36 AM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 9 on (Yesterday, 5:36 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 8 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 7 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 6 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 5 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 4 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 3 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 2 on (Yesterday, 4:19 AM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 1 on (Yesterday, 4:19 AM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 10 on (May 26, 5:36 AM)
+- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 9 on (May 26, 5:36 AM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 8 on (May 17, 6:54 AM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 7 on (May 17, 6:54 AM)
 
