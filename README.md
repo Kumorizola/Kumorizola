@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 10 on (22 minutes ago)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 9 on (22 minutes ago)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 1 on (May 31, 3:44 PM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 12 on (May 31, 3:41 PM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 11 on (May 31, 6:29 AM)
@@ -59,8 +61,6 @@
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 1 on (May 27, 4:19 AM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 10 on (May 26, 5:36 AM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 9 on (May 26, 5:36 AM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 8 on (May 17, 6:54 AM)
-- 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 7 on (May 17, 6:54 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
