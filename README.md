@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 11 on (Yesterday, 10:56 PM)
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 11 on (Jun 15, 10:56 PM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 10 on (Jun 10, 5:56 AM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 9 on (Jun 10, 5:56 AM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 1 on (May 31, 3:44 PM)
