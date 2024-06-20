@@ -46,7 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 100 on (11 hours ago)
+- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 120 on (29 minutes ago)
+- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 100 on (Yesterday, 7:59 PM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 11 on (Jun 15, 10:56 PM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 10 on (Jun 10, 5:56 AM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 9 on (Jun 10, 5:56 AM)
@@ -60,7 +61,6 @@
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 4 on (May 27, 4:19 AM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 3 on (May 27, 4:19 AM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 2 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 1 on (May 27, 4:19 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
