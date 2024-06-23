@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 155 on (14 minutes ago)
+- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 155 on (14 minutes ago)
 - 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 120 on (Jun 20, 7:48 AM)
 - 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 100 on (Jun 19, 7:59 PM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 11 on (Jun 15, 10:56 PM)
@@ -54,13 +56,6 @@
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 1 on (May 31, 3:44 PM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 12 on (May 31, 3:41 PM)
 - 📺 Watched [Yuru Camp△](https://MyAnimeList.net/anime.php?id=34798) Episode 11 on (May 31, 6:29 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 8 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 7 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 6 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 5 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 4 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 3 on (May 27, 4:19 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 2 on (May 27, 4:19 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
