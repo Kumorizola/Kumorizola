@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 12 on (34 minutes ago)
 - 📺 Watched [Dungeon Meshi](https://MyAnimeList.net/anime.php?id=52701) Episode 1 on (Jun 29, 6:17 PM)
 - 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 155 on (Jun 23, 12:01 AM)
 - 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 155 on (Jun 23, 12:01 AM)
