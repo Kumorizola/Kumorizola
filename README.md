@@ -46,17 +46,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 2 on (Today, 8:15 AM)
-- 📺 Watched [Odd Taxi](https://MyAnimeList.net/anime.php?id=46102) Episode 13 on (Yesterday, 1:56 AM)
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 2 on (Yesterday, 8:15 AM)
+- 📺 Watched [Odd Taxi](https://MyAnimeList.net/anime.php?id=46102) Episode 13 on (Jul 12, 1:56 AM)
 - 📺 Watched [Odd Taxi](https://MyAnimeList.net/anime.php?id=46102) Episode 10 on (Jul 11, 7:56 AM)
 - 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 12 on (Jul 1, 2:45 AM)
-- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 165 on (Jul 5, 7:36 PM)
 - 📺 Watched [Dungeon Meshi](https://MyAnimeList.net/anime.php?id=52701) Episode 1 on (Jun 29, 6:17 PM)
+- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 165 on (Jul 5, 7:36 PM)
 - 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 155 on (Jun 23, 12:01 AM)
 - 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 155 on (Jun 23, 12:01 AM)
-- 📺 Watched [The Fable](https://MyAnimeList.net/anime.php?id=55911) Episode 11 on (Jun 15, 10:56 PM)
-- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 120 on (Jun 20, 7:48 AM)
-- 📖 Read [The Fable](https://MyAnimeList.net/manga.php?id=87844) Chapter 100 on (Jun 19, 7:59 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
