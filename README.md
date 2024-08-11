@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Uzugami: Bunretsu Zoushoku Ningen](https://MyAnimeList.net/manga.php?id=172271) Chapter 2 on (19 minutes ago)
 - 📖 Read [Uzugami: Bunretsu Zoushoku Ningen](https://MyAnimeList.net/manga.php?id=172271) Chapter 1 on (Jul 28, 6:59 AM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 2 on (Jul 13, 8:15 AM)
 - 📺 Watched [Odd Taxi](https://MyAnimeList.net/anime.php?id=46102) Episode 13 on (Jul 12, 1:56 AM)
