@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Uzugami: Bunretsu Zoushoku Ningen](https://MyAnimeList.net/manga.php?id=172271) Chapter 2 on (11 hours ago)
+- 📖 Read [Uzugami: Bunretsu Zoushoku Ningen](https://MyAnimeList.net/manga.php?id=172271) Chapter 2 on (Yesterday, 7:59 PM)
 - 📖 Read [Uzugami: Bunretsu Zoushoku Ningen](https://MyAnimeList.net/manga.php?id=172271) Chapter 1 on (Jul 28, 6:59 AM)
 
 <!-- MAL_ACTIVITY:end -->
