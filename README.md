@@ -46,6 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 4 on (26 minutes ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 3 on (26 minutes ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 2 on (27 minutes ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 1 on (27 minutes ago)
 - 📺 Watched [Wind Breaker](https://MyAnimeList.net/anime.php?id=54900) Episode 13 on (Yesterday, 6:26 PM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 4 on (Yesterday, 3:48 PM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 3 on (Yesterday, 3:48 PM)
