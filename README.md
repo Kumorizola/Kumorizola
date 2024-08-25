@@ -46,21 +46,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu](https://MyAnimeList.net/anime.php?id=39535) Episode 11 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: Gou no Sara](https://MyAnimeList.net/anime.php?id=40902) Episode 13 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: Ni no Sara](https://MyAnimeList.net/anime.php?id=32282) Episode 13 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: Ni no Sara OVA](https://MyAnimeList.net/anime.php?id=34480) Episode 2 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: San no Sara](https://MyAnimeList.net/anime.php?id=35788) Episode 12 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen](https://MyAnimeList.net/anime.php?id=36949) Episode 12 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina](https://MyAnimeList.net/anime.php?id=36962) Episode 1 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma: Shin no Sara](https://MyAnimeList.net/anime.php?id=39940) Episode 12 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma OVA](https://MyAnimeList.net/anime.php?id=31327) Episode 2 on (1 hour ago)
-- 📺 Watched [Shokugeki no Souma](https://MyAnimeList.net/anime.php?id=28171) Episode 24 on (1 hour ago)
-- 📺 Watched [Dungeon Meshi](https://MyAnimeList.net/anime.php?id=52701) Episode 24 on (1 hour ago)
-- 📺 Watched [Tokyo Ghoul](https://MyAnimeList.net/anime.php?id=22319) Episode 12 on (1 hour ago)
-- 📖 Read [Berserk](https://MyAnimeList.net/manga.php?id=2) Chapter 100 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 7 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 6 on (5 hours ago)
+- 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu](https://MyAnimeList.net/anime.php?id=39535) Episode 11 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: Gou no Sara](https://MyAnimeList.net/anime.php?id=40902) Episode 13 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: Ni no Sara](https://MyAnimeList.net/anime.php?id=32282) Episode 13 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: Ni no Sara OVA](https://MyAnimeList.net/anime.php?id=34480) Episode 2 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: San no Sara](https://MyAnimeList.net/anime.php?id=35788) Episode 12 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen](https://MyAnimeList.net/anime.php?id=36949) Episode 12 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina](https://MyAnimeList.net/anime.php?id=36962) Episode 1 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma: Shin no Sara](https://MyAnimeList.net/anime.php?id=39940) Episode 12 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma OVA](https://MyAnimeList.net/anime.php?id=31327) Episode 2 on (2 hours ago)
+- 📺 Watched [Shokugeki no Souma](https://MyAnimeList.net/anime.php?id=28171) Episode 24 on (2 hours ago)
+- 📺 Watched [Dungeon Meshi](https://MyAnimeList.net/anime.php?id=52701) Episode 24 on (2 hours ago)
+- 📺 Watched [Tokyo Ghoul](https://MyAnimeList.net/anime.php?id=22319) Episode 12 on (2 hours ago)
+- 📖 Read [Berserk](https://MyAnimeList.net/manga.php?id=2) Chapter 100 on (3 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 7 on (3 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 6 on (6 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
