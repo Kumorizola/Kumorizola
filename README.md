@@ -46,6 +46,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 6 on (18 minutes ago)
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 5 on (18 minutes ago)
+- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 12 on (19 minutes ago)
+- 📺 Watched [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://MyAnimeList.net/anime.php?id=51535) Episode 2 on (19 minutes ago)
+- 📺 Watched [Mashle: Shinkakusha Kouho Senbatsu Shiken-hen](https://MyAnimeList.net/anime.php?id=55813) Episode 12 on (20 minutes ago)
 - 📺 Watched [Mushoku Tensei: Isekai Ittara Honki Dasu](https://MyAnimeList.net/anime.php?id=39535) Episode 11 on (Aug 24, 9:00 PM)
 - 📺 Watched [Shokugeki no Souma: Gou no Sara](https://MyAnimeList.net/anime.php?id=40902) Episode 13 on (Aug 24, 8:56 PM)
 - 📺 Watched [Shokugeki no Souma: Ni no Sara](https://MyAnimeList.net/anime.php?id=32282) Episode 13 on (Aug 24, 8:56 PM)
@@ -56,11 +61,6 @@
 - 📺 Watched [Shokugeki no Souma: Shin no Sara](https://MyAnimeList.net/anime.php?id=39940) Episode 12 on (Aug 24, 8:55 PM)
 - 📺 Watched [Shokugeki no Souma OVA](https://MyAnimeList.net/anime.php?id=31327) Episode 2 on (Aug 24, 8:55 PM)
 - 📺 Watched [Shokugeki no Souma](https://MyAnimeList.net/anime.php?id=28171) Episode 24 on (Aug 24, 8:54 PM)
-- 📺 Watched [Dungeon Meshi](https://MyAnimeList.net/anime.php?id=52701) Episode 24 on (Aug 24, 8:53 PM)
-- 📺 Watched [Tokyo Ghoul](https://MyAnimeList.net/anime.php?id=22319) Episode 12 on (Aug 24, 8:52 PM)
-- 📺 Watched [Wind Breaker](https://MyAnimeList.net/anime.php?id=54900) Episode 13 on (Aug 23, 6:26 PM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 4 on (Aug 23, 3:48 PM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 3 on (Aug 23, 3:48 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
