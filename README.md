@@ -46,21 +46,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 21 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 20 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 19 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 18 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 17 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 16 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 15 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 14 on (1 hour ago)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 13 on (1 hour ago)
-- 📺 Watched [Kanojo, Okarishimasu](https://MyAnimeList.net/anime.php?id=40839) Episode 9 on (Yesterday, 5:51 PM)
-- 📺 Watched [Steins;Gate 0](https://MyAnimeList.net/anime.php?id=30484) Episode 23 on (Yesterday, 5:43 PM)
-- 📺 Watched [Tate no Yuusha no Nariagari Season 3](https://MyAnimeList.net/anime.php?id=40357) Episode 1 on (Yesterday, 5:36 PM)
-- 📺 Watched [Boku dake ga Inai Machi](https://MyAnimeList.net/anime.php?id=31043) Episode 12 on (Yesterday, 5:35 PM)
-- 📺 Watched [Ansatsu Kyoushitsu: 365-nichi no Jikan](https://MyAnimeList.net/anime.php?id=33513) Episode 1 on (Yesterday, 5:32 PM)
-- 📺 Watched [Ansatsu Kyoushitsu: Jump Festa 2013 Special](https://MyAnimeList.net/anime.php?id=19759) Episode 1 on (Yesterday, 5:31 PM)
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (4 minutes ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 1 on (4 minutes ago)
+- 📺 Watched ["Oshi no Ko" 2nd Season](https://MyAnimeList.net/anime.php?id=55791) Episode 1 on (5 minutes ago)
+- 📖 Read [Sayonara Eri](https://MyAnimeList.net/manga.php?id=145863) Chapter 1 on (10 seconds ago)
+- 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 2 on (20 seconds ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 31 on (17 minutes ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 21 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 20 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 19 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 18 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 17 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 16 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 15 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 14 on (2 hours ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 13 on (2 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
