@@ -46,21 +46,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 21 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 20 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 19 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 18 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 17 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 16 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 15 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 14 on (1 hour ago)
+- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 13 on (1 hour ago)
 - 📺 Watched [Kanojo, Okarishimasu](https://MyAnimeList.net/anime.php?id=40839) Episode 9 on (Yesterday, 5:51 PM)
 - 📺 Watched [Steins;Gate 0](https://MyAnimeList.net/anime.php?id=30484) Episode 23 on (Yesterday, 5:43 PM)
 - 📺 Watched [Tate no Yuusha no Nariagari Season 3](https://MyAnimeList.net/anime.php?id=40357) Episode 1 on (Yesterday, 5:36 PM)
 - 📺 Watched [Boku dake ga Inai Machi](https://MyAnimeList.net/anime.php?id=31043) Episode 12 on (Yesterday, 5:35 PM)
 - 📺 Watched [Ansatsu Kyoushitsu: 365-nichi no Jikan](https://MyAnimeList.net/anime.php?id=33513) Episode 1 on (Yesterday, 5:32 PM)
 - 📺 Watched [Ansatsu Kyoushitsu: Jump Festa 2013 Special](https://MyAnimeList.net/anime.php?id=19759) Episode 1 on (Yesterday, 5:31 PM)
-- 📺 Watched [Koro-sensei Quest!](https://MyAnimeList.net/anime.php?id=34389) Episode 12 on (Yesterday, 5:31 PM)
-- 📺 Watched [Ansatsu Kyoushitsu: Kagaijugyou-hen](https://MyAnimeList.net/anime.php?id=32863) Episode 8 on (Yesterday, 5:31 PM)
-- 📺 Watched [Ansatsu Kyoushitsu: Deai no Jikan](https://MyAnimeList.net/anime.php?id=28405) Episode 1 on (Yesterday, 5:31 PM)
-- 📺 Watched [Ansatsu Kyoushitsu 2nd Season](https://MyAnimeList.net/anime.php?id=30654) Episode 25 on (Yesterday, 5:30 PM)
-- 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Yesterday, 5:30 PM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 6 on (Yesterday, 7:59 AM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 5 on (Yesterday, 7:59 AM)
-- 📺 Watched [Tondemo Skill de Isekai Hourou Meshi](https://MyAnimeList.net/anime.php?id=53446) Episode 12 on (Yesterday, 7:59 AM)
-- 📺 Watched [Shingeki no Kyojin: The Final Season - Kanketsu-hen](https://MyAnimeList.net/anime.php?id=51535) Episode 2 on (Yesterday, 7:58 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
