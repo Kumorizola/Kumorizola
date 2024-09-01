@@ -46,9 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (8 hours ago)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 1 on (8 hours ago)
-- 📺 Watched ["Oshi no Ko" 2nd Season](https://MyAnimeList.net/anime.php?id=55791) Episode 1 on (8 hours ago)
+- 📖 Read [Kokou no Hito](https://MyAnimeList.net/manga.php?id=7375) Chapter 1 on (55 minutes ago)
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (10 hours ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 1 on (10 hours ago)
+- 📺 Watched ["Oshi no Ko" 2nd Season](https://MyAnimeList.net/anime.php?id=55791) Episode 1 on (10 hours ago)
 - 📺 Watched [Kanojo, Okarishimasu](https://MyAnimeList.net/anime.php?id=40839) Episode 9 on (Aug 30, 5:51 PM)
 - 📺 Watched [Steins;Gate 0](https://MyAnimeList.net/anime.php?id=30484) Episode 23 on (Aug 30, 5:43 PM)
 - 📺 Watched [Tate no Yuusha no Nariagari Season 3](https://MyAnimeList.net/anime.php?id=40357) Episode 1 on (Aug 30, 5:36 PM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Ansatsu Kyoushitsu: Deai no Jikan](https://MyAnimeList.net/anime.php?id=28405) Episode 1 on (Aug 30, 5:31 PM)
 - 📺 Watched [Ansatsu Kyoushitsu 2nd Season](https://MyAnimeList.net/anime.php?id=30654) Episode 25 on (Aug 30, 5:30 PM)
 - 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Aug 30, 5:30 PM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 6 on (Aug 30, 7:59 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
