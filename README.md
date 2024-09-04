@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 6 on (19 minutes ago)
+- 📖 Read [Kokou no Hito](https://MyAnimeList.net/manga.php?id=7375) Chapter 14 on (19 minutes ago)
 - 📖 Read [Kokou no Hito](https://MyAnimeList.net/manga.php?id=7375) Chapter 1 on (Sep 1, 4:36 AM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (Aug 31, 7:48 PM)
 - 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 1 on (Aug 31, 7:48 PM)
@@ -59,8 +61,6 @@
 - 📺 Watched [Koro-sensei Quest!](https://MyAnimeList.net/anime.php?id=34389) Episode 12 on (Aug 30, 5:31 PM)
 - 📺 Watched [Ansatsu Kyoushitsu: Kagaijugyou-hen](https://MyAnimeList.net/anime.php?id=32863) Episode 8 on (Aug 30, 5:31 PM)
 - 📺 Watched [Ansatsu Kyoushitsu: Deai no Jikan](https://MyAnimeList.net/anime.php?id=28405) Episode 1 on (Aug 30, 5:31 PM)
-- 📺 Watched [Ansatsu Kyoushitsu 2nd Season](https://MyAnimeList.net/anime.php?id=30654) Episode 25 on (Aug 30, 5:30 PM)
-- 📺 Watched [Ansatsu Kyoushitsu](https://MyAnimeList.net/anime.php?id=24833) Episode 22 on (Aug 30, 5:30 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
