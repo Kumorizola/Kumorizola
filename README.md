@@ -3,7 +3,7 @@
 
 - 🌐 MyAnimeList : [Kumorizola](https://myanimelist.net/animelist/Kumorizola)
 
-![Discord](https://discord.c99.nl/widget/theme-3/761213268009943051.png)
+![Discord]([https://discord.c99.nl/widget/theme-3/761213268009943051.png](https://discord.c99.nl/widget/theme-1/761213268009943051.png))
 <details>
       <summary>Connect with me</summary>
     <p align="left">
