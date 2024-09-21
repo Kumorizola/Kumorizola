@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Look Back](https://MyAnimeList.net/anime.php?id=58125) Episode 1 on (35 minutes ago)
+- 📺 Watched [Re:Zero kara Hajimeru Isekai Seikatsu](https://MyAnimeList.net/anime.php?id=31240) Episode 25 on (35 minutes ago)
 - 📺 Watched [Kage no Jitsuryokusha ni Naritakute!](https://MyAnimeList.net/anime.php?id=48316) Episode 20 on (Sep 7, 11:48 PM)
 - 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 6 on (Sep 3, 9:59 PM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (Aug 31, 7:48 PM)
@@ -59,8 +61,6 @@
 - 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 31 on (Aug 31, 7:35 PM)
 - 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 21 on (Aug 31, 5:28 PM)
 - 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 20 on (Aug 31, 5:28 PM)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 19 on (Aug 31, 5:28 PM)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 18 on (Aug 31, 5:28 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
