@@ -46,21 +46,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Look Back](https://MyAnimeList.net/anime.php?id=58125) Episode 1 on (Yesterday, 9:42 PM)
-- 📺 Watched [Re:Zero kara Hajimeru Isekai Seikatsu](https://MyAnimeList.net/anime.php?id=31240) Episode 25 on (Yesterday, 9:42 PM)
+- 📺 Watched [Look Back](https://MyAnimeList.net/anime.php?id=58125) Episode 1 on (Sep 20, 9:42 PM)
+- 📺 Watched [Re:Zero kara Hajimeru Isekai Seikatsu](https://MyAnimeList.net/anime.php?id=31240) Episode 25 on (Sep 20, 9:42 PM)
 - 📺 Watched [Kage no Jitsuryokusha ni Naritakute!](https://MyAnimeList.net/anime.php?id=48316) Episode 20 on (Sep 7, 11:48 PM)
 - 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 6 on (Sep 3, 9:59 PM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (Aug 31, 7:48 PM)
 - 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 1 on (Aug 31, 7:48 PM)
 - 📺 Watched ["Oshi no Ko" 2nd Season](https://MyAnimeList.net/anime.php?id=55791) Episode 1 on (Aug 31, 7:47 PM)
-- 📖 Read [Kokou no Hito](https://MyAnimeList.net/manga.php?id=7375) Chapter 14 on (Sep 3, 9:58 PM)
-- 📖 Read [Kokou no Hito](https://MyAnimeList.net/manga.php?id=7375) Chapter 1 on (Sep 1, 4:36 AM)
-- 📖 Read [Oyasumi Punpun](https://MyAnimeList.net/manga.php?id=4632) Chapter 1 on (Aug 31, 8:04 PM)
-- 📖 Read [Sayonara Eri](https://MyAnimeList.net/manga.php?id=145863) Chapter 1 on (Aug 31, 7:52 PM)
-- 📖 Read [Kagurabachi](https://MyAnimeList.net/manga.php?id=162479) Chapter 2 on (Aug 31, 7:52 PM)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 31 on (Aug 31, 7:35 PM)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 21 on (Aug 31, 5:28 PM)
-- 📖 Read [Onanie Master Kurosawa](https://MyAnimeList.net/manga.php?id=8967) Chapter 20 on (Aug 31, 5:28 PM)
+- 📺 Watched [Kanojo, Okarishimasu](https://MyAnimeList.net/anime.php?id=40839) Episode 9 on (Aug 30, 5:51 PM)
+- 📺 Watched [Steins;Gate 0](https://MyAnimeList.net/anime.php?id=30484) Episode 23 on (Aug 30, 5:43 PM)
+- 📺 Watched [Tate no Yuusha no Nariagari Season 3](https://MyAnimeList.net/anime.php?id=40357) Episode 1 on (Aug 30, 5:36 PM)
+- 📺 Watched [Boku dake ga Inai Machi](https://MyAnimeList.net/anime.php?id=31043) Episode 12 on (Aug 30, 5:35 PM)
+- 📺 Watched [Ansatsu Kyoushitsu: 365-nichi no Jikan](https://MyAnimeList.net/anime.php?id=33513) Episode 1 on (Aug 30, 5:32 PM)
+- 📺 Watched [Ansatsu Kyoushitsu: Jump Festa 2013 Special](https://MyAnimeList.net/anime.php?id=19759) Episode 1 on (Aug 30, 5:31 PM)
+- 📺 Watched [Koro-sensei Quest!](https://MyAnimeList.net/anime.php?id=34389) Episode 12 on (Aug 30, 5:31 PM)
+- 📺 Watched [Ansatsu Kyoushitsu: Kagaijugyou-hen](https://MyAnimeList.net/anime.php?id=32863) Episode 8 on (Aug 30, 5:31 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
