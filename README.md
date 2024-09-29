@@ -46,21 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 10 on (2 hours ago)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 9 on (4 hours ago)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 8 on (4 hours ago)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 7 on (5 hours ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 10 on (3 hours ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 9 on (5 hours ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 8 on (5 hours ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 7 on (6 hours ago)
 - 📺 Watched [Look Back](https://MyAnimeList.net/anime.php?id=58125) Episode 1 on (Sep 20, 9:42 PM)
 - 📺 Watched [Re:Zero kara Hajimeru Isekai Seikatsu](https://MyAnimeList.net/anime.php?id=31240) Episode 25 on (Sep 20, 9:42 PM)
 - 📺 Watched [Kage no Jitsuryokusha ni Naritakute!](https://MyAnimeList.net/anime.php?id=48316) Episode 20 on (Sep 7, 11:48 PM)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 6 on (Sep 3, 9:59 PM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 7 on (Aug 31, 7:48 PM)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 1 on (Aug 31, 7:48 PM)
-- 📺 Watched ["Oshi no Ko" 2nd Season](https://MyAnimeList.net/anime.php?id=55791) Episode 1 on (Aug 31, 7:47 PM)
-- 📺 Watched [Kanojo, Okarishimasu](https://MyAnimeList.net/anime.php?id=40839) Episode 9 on (Aug 30, 5:51 PM)
-- 📺 Watched [Steins;Gate 0](https://MyAnimeList.net/anime.php?id=30484) Episode 23 on (Aug 30, 5:43 PM)
-- 📺 Watched [Tate no Yuusha no Nariagari Season 3](https://MyAnimeList.net/anime.php?id=40357) Episode 1 on (Aug 30, 5:36 PM)
-- 📺 Watched [Boku dake ga Inai Machi](https://MyAnimeList.net/anime.php?id=31043) Episode 12 on (Aug 30, 5:35 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
