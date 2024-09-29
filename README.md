@@ -46,7 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 7 on (5 minutes ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 9 on (39 minutes ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 8 on (39 minutes ago)
+- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 7 on (1 hour ago)
 - 📺 Watched [Look Back](https://MyAnimeList.net/anime.php?id=58125) Episode 1 on (Sep 20, 9:42 PM)
 - 📺 Watched [Re:Zero kara Hajimeru Isekai Seikatsu](https://MyAnimeList.net/anime.php?id=31240) Episode 25 on (Sep 20, 9:42 PM)
 - 📺 Watched [Kage no Jitsuryokusha ni Naritakute!](https://MyAnimeList.net/anime.php?id=48316) Episode 20 on (Sep 7, 11:48 PM)
@@ -59,8 +61,6 @@
 - 📺 Watched [Tate no Yuusha no Nariagari Season 3](https://MyAnimeList.net/anime.php?id=40357) Episode 1 on (Aug 30, 5:36 PM)
 - 📺 Watched [Boku dake ga Inai Machi](https://MyAnimeList.net/anime.php?id=31043) Episode 12 on (Aug 30, 5:35 PM)
 - 📺 Watched [Ansatsu Kyoushitsu: 365-nichi no Jikan](https://MyAnimeList.net/anime.php?id=33513) Episode 1 on (Aug 30, 5:32 PM)
-- 📺 Watched [Ansatsu Kyoushitsu: Jump Festa 2013 Special](https://MyAnimeList.net/anime.php?id=19759) Episode 1 on (Aug 30, 5:31 PM)
-- 📺 Watched [Koro-sensei Quest!](https://MyAnimeList.net/anime.php?id=34389) Episode 12 on (Aug 30, 5:31 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
