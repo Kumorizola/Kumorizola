@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 3 on (10 minutes ago)
+- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 3 on (2 hours ago)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 2 on (Oct 13, 7:21 AM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 1 on (Oct 6, 1:00 AM)
 - 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 10 on (Sep 28, 8:57 PM)
