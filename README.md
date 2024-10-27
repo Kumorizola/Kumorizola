@@ -46,14 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 4 on (Yesterday, 6:20 PM)
+- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 4 on (Oct 25, 6:20 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 3 on (Oct 18, 4:06 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 2 on (Oct 13, 7:21 AM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 1 on (Oct 6, 1:00 AM)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 10 on (Sep 28, 8:57 PM)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 9 on (Sep 28, 7:15 PM)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 8 on (Sep 28, 7:15 PM)
-- 📺 Watched [Cyberpunk: Edgerunners](https://MyAnimeList.net/anime.php?id=42310) Episode 7 on (Sep 28, 6:31 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
