@@ -46,11 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 5 on (7 hours ago)
+- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 5 on (8 hours ago)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 4 on (Oct 25, 6:20 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 3 on (Oct 18, 4:06 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 2 on (Oct 13, 7:21 AM)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 1 on (Oct 6, 1:00 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
