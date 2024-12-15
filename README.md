@@ -49,7 +49,6 @@
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 10 on (Dec 7, 3:53 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 9 on (Nov 29, 3:52 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 8 on (Nov 23, 3:37 PM)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 7 on (Nov 15, 2:49 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
