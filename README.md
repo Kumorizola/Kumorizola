@@ -46,9 +46,15 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 2 on (6 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 1 on (6 hours ago)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 11 on (10 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 8 on (9 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 7 on (9 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 6 on (9 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 5 on (9 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 4 on (9 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 3 on (9 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 2 on (7 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 1 on (7 hours ago)
+- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 11 on (11 hours ago)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 10 on (Dec 7, 3:53 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 9 on (Nov 29, 3:52 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 8 on (Nov 23, 3:37 PM)
