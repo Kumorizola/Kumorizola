@@ -46,14 +46,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 8 on (3 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 7 on (3 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 6 on (3 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 5 on (3 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 4 on (3 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 3 on (3 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 2 on (10 hours ago)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 1 on (10 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 8 on (4 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 7 on (4 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 6 on (4 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 5 on (4 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 4 on (4 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 3 on (4 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 2 on (11 hours ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 1 on (11 hours ago)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 11 on (Yesterday, 7:11 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 10 on (Dec 7, 3:53 PM)
 - 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 9 on (Nov 29, 3:52 PM)
