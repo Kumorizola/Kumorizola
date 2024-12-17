@@ -46,6 +46,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 16 on (24 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 15 on (24 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 14 on (24 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 13 on (24 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 12 on (24 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 11 on (25 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 10 on (25 minutes ago)
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 9 on (25 minutes ago)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 8 on (Today, 6:09 AM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 7 on (Today, 6:09 AM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 6 on (Today, 6:09 AM)
@@ -53,11 +61,6 @@
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 4 on (Today, 6:09 AM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 3 on (Today, 6:09 AM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 2 on (Yesterday, 11:34 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 1 on (Yesterday, 11:34 PM)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 11 on (Yesterday, 7:11 PM)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 10 on (Dec 7, 3:53 PM)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 9 on (Nov 29, 3:52 PM)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 8 on (Nov 23, 3:37 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
