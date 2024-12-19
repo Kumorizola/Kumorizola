@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 43 on (5 minutes ago)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 16 on (Dec 16, 10:55 PM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 15 on (Dec 16, 10:55 PM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 14 on (Dec 16, 10:55 PM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 5 on (Dec 16, 6:09 AM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 4 on (Dec 16, 6:09 AM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 3 on (Dec 16, 6:09 AM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 2 on (Dec 15, 11:34 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
