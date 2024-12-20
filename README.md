@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 12 on (12 hours ago)
+- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 12 on (Yesterday, 6:28 PM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 43 on (Dec 18, 10:22 PM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 16 on (Dec 16, 10:55 PM)
 - 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 15 on (Dec 16, 10:55 PM)
