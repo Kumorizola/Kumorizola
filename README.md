@@ -46,21 +46,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 1 on (3 hours ago)
-- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 1 on (5 hours ago)
-- 📺 Watched [Slam Dunk](https://MyAnimeList.net/anime.php?id=170) Episode 87 on (6 hours ago)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 2 on (6 hours ago)
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 1 on (6 hours ago)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 1 on (6 hours ago)
-- 📺 Watched [Dandadan](https://MyAnimeList.net/anime.php?id=57334) Episode 12 on (Dec 19, 2024 6:28 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 43 on (Dec 18, 2024 10:22 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 16 on (Dec 16, 2024 10:55 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 15 on (Dec 16, 2024 10:55 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 14 on (Dec 16, 2024 10:55 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 13 on (Dec 16, 2024 10:55 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 12 on (Dec 16, 2024 10:55 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 11 on (Dec 16, 2024 10:55 PM)
-- 📺 Watched [Great Teacher Onizuka](https://MyAnimeList.net/anime.php?id=245) Episode 10 on (Dec 16, 2024 10:55 PM)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 1 on (4 hours ago)
+- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 1 on (6 hours ago)
+- 📺 Watched [Slam Dunk](https://MyAnimeList.net/anime.php?id=170) Episode 87 on (7 hours ago)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 2 on (7 hours ago)
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 1 on (8 hours ago)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 1 on (8 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
