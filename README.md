@@ -46,9 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 2 on (Today, 2:55 AM)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 3 on (Yesterday, 6:47 AM)
-- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 2 on (Yesterday, 6:46 AM)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 2 on (Yesterday, 2:55 AM)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 3 on (Jan 22, 6:47 AM)
+- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 2 on (Jan 22, 6:46 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 1 on (Jan 11, 8:02 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 1 on (Jan 11, 6:35 PM)
 - 📺 Watched [Slam Dunk](https://MyAnimeList.net/anime.php?id=170) Episode 87 on (Jan 11, 5:14 PM)
