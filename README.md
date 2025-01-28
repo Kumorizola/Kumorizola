@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [GTO](https://MyAnimeList.net/manga.php?id=336) Chapter 208 on (Yesterday, 5:28 AM)
+- 📖 Read [GTO](https://MyAnimeList.net/manga.php?id=336) Chapter 208 on (Jan 26, 5:28 AM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 4 on (Jan 25, 9:39 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 3 on (Jan 25, 5:46 PM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 4 on (Jan 25, 5:09 PM)
