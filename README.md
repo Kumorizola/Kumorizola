@@ -46,9 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 18 on (7 minutes ago)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 14 on (4 hours ago)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 14 on (4 hours ago)
-- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 4 on (4 hours ago)
+- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 4 on (5 hours ago)
 - 📖 Read [GTO](https://MyAnimeList.net/manga.php?id=336) Chapter 208 on (Jan 26, 5:28 AM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 4 on (Jan 25, 9:39 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 3 on (Jan 25, 5:46 PM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 2 on (Jan 24, 2:40 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 2 on (Jan 23, 2:55 AM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 3 on (Jan 22, 6:47 AM)
-- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 2 on (Jan 22, 6:46 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
