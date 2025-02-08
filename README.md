@@ -46,8 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 5 on (18 minutes ago)
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 4 on (18 minutes ago)
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 5 on (1 hour ago)
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 4 on (1 hour ago)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 5 on (Feb 6, 7:19 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 18 on (Jan 29, 5:15 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 14 on (Jan 29, 12:58 AM)
