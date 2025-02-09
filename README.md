@@ -46,18 +46,18 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 5 on (Today, 1:20 AM)
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 5 on (Today, 12:03 AM)
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 4 on (Today, 12:03 AM)
+- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 5 on (Yesterday, 1:20 AM)
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 5 on (Yesterday, 12:03 AM)
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 4 on (Yesterday, 12:03 AM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 5 on (Feb 6, 7:19 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 18 on (Jan 29, 5:15 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 14 on (Jan 29, 12:58 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 14 on (Jan 29, 12:58 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 4 on (Jan 29, 12:40 AM)
-- 📖 Read [GTO](https://MyAnimeList.net/manga.php?id=336) Chapter 208 on (Jan 26, 5:28 AM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 4 on (Jan 25, 9:39 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 3 on (Jan 25, 5:46 PM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 4 on (Jan 25, 5:09 PM)
+- 📖 Read [GTO](https://MyAnimeList.net/manga.php?id=336) Chapter 208 on (Jan 26, 5:28 AM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 3 on (Jan 24, 11:14 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 2 on (Jan 24, 8:55 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 1 on (Jan 24, 8:22 PM)
