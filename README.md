@@ -60,7 +60,6 @@
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 5 on (Feb 8, 1:20 AM)
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 5 on (Feb 8, 12:03 AM)
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 4 on (Feb 8, 12:03 AM)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 5 on (Feb 6, 7:19 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
