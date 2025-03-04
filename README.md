@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 8 on (12 hours ago)
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 8 on (Yesterday, 6:26 PM)
 - 📺 Watched [Yakusoku no Neverland](https://MyAnimeList.net/anime.php?id=37779) Episode 12 on (Yesterday, 5:39 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 23 on (Yesterday, 5:32 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 22 on (Yesterday, 5:32 PM)
