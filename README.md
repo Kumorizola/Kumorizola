@@ -46,6 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 8 on (28 minutes ago)
+- 📺 Watched [Yakusoku no Neverland](https://MyAnimeList.net/anime.php?id=37779) Episode 12 on (1 hour ago)
+- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 23 on (1 hour ago)
+- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 22 on (1 hour ago)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 9 on (1 hour ago)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 10 on (1 hour ago)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 9 on (1 hour ago)
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 8 on (Yesterday, 4:48 PM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 8 on (Feb 25, 2:55 PM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 7 on (Feb 25, 2:37 PM)
@@ -54,13 +61,6 @@
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 6 on (Feb 20, 6:45 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 4 on (Feb 10, 2:57 AM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 6 on (Feb 10, 2:57 AM)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 6 on (Feb 9, 7:46 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 3 on (Feb 9, 7:44 PM)
-- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 20 on (Feb 9, 7:12 AM)
-- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 19 on (Feb 9, 7:12 AM)
-- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 5 on (Feb 8, 1:20 AM)
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 5 on (Feb 8, 12:03 AM)
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 4 on (Feb 8, 12:03 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
