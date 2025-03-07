@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Slam Dunk](https://MyAnimeList.net/anime.php?id=170) Episode 101 on (33 minutes ago)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 8 on (Mar 3, 6:26 PM)
 - 📺 Watched [Yakusoku no Neverland](https://MyAnimeList.net/anime.php?id=37779) Episode 12 on (Mar 3, 5:39 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 23 on (Mar 3, 5:32 PM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 7 on (Feb 20, 7:14 AM)
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 6 on (Feb 20, 6:45 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 4 on (Feb 10, 2:57 AM)
-- 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 6 on (Feb 10, 2:57 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
