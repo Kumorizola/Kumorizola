@@ -55,12 +55,12 @@
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 25 on (Mar 15, 7:56 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 24 on (Mar 8, 11:05 PM)
 - 📺 Watched [The First Slam Dunk](https://MyAnimeList.net/anime.php?id=45649) Episode 1 on (Mar 8, 7:53 PM)
+- 📖 Read [Slam Dunk](https://MyAnimeList.net/manga.php?id=51) Chapter 276 on (Mar 8, 11:05 PM)
 - 📺 Watched [Slam Dunk](https://MyAnimeList.net/anime.php?id=170) Episode 101 on (Mar 6, 9:54 PM)
 - 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 8 on (Mar 3, 6:26 PM)
 - 📺 Watched [Yakusoku no Neverland](https://MyAnimeList.net/anime.php?id=37779) Episode 12 on (Mar 3, 5:39 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 23 on (Mar 3, 5:32 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 22 on (Mar 3, 5:32 PM)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 9 on (Mar 3, 5:30 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
