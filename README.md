@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 12 on (53 minutes ago)
 - 📺 Watched [Spy x Family Movie: Code: White](https://MyAnimeList.net/anime.php?id=53888) Episode 1 on (Yesterday, 10:08 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 11 on (Mar 23, 7:33 PM)
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 11 on (Mar 23, 7:13 PM)
@@ -60,7 +61,6 @@
 - 📺 Watched [The First Slam Dunk](https://MyAnimeList.net/anime.php?id=45649) Episode 1 on (Mar 8, 7:53 PM)
 - 📖 Read [Slam Dunk](https://MyAnimeList.net/manga.php?id=51) Chapter 276 on (Mar 8, 11:05 PM)
 - 📺 Watched [Slam Dunk](https://MyAnimeList.net/anime.php?id=170) Episode 101 on (Mar 6, 9:54 PM)
-- 📺 Watched [Yuru Camp△ Season 2](https://MyAnimeList.net/anime.php?id=38474) Episode 8 on (Mar 3, 6:26 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
