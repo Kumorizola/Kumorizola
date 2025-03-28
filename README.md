@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 12 on (12 hours ago)
+- 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 12 on (Yesterday, 5:43 PM)
 - 📺 Watched [Spy x Family Movie: Code: White](https://MyAnimeList.net/anime.php?id=53888) Episode 1 on (Mar 26, 10:08 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 11 on (Mar 23, 7:33 PM)
 - 📺 Watched [Dr. Stone: Science Future](https://MyAnimeList.net/anime.php?id=57592) Episode 11 on (Mar 23, 7:13 PM)
