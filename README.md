@@ -57,9 +57,6 @@
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 8 on (Mar 15, 8:58 PM)
 - 📺 Watched [Sakamoto Days](https://MyAnimeList.net/anime.php?id=58939) Episode 7 on (Mar 15, 8:58 PM)
 - 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 25 on (Mar 15, 7:56 PM)
-- 📺 Watched [Chi. Chikyuu no Undou ni Tsuite](https://MyAnimeList.net/anime.php?id=52215) Episode 24 on (Mar 8, 11:05 PM)
-- 📺 Watched [The First Slam Dunk](https://MyAnimeList.net/anime.php?id=45649) Episode 1 on (Mar 8, 7:53 PM)
-- 📖 Read [Slam Dunk](https://MyAnimeList.net/manga.php?id=51) Chapter 276 on (Mar 8, 11:05 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
