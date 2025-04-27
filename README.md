@@ -47,14 +47,14 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 11 on (Apr 18, 6:41 AM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 43 on (Apr 12, 12:45 AM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 43 on (Apr 12, 12:45 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 10 on (Apr 8, 1:07 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 9 on (Apr 8, 1:07 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 8 on (Apr 8, 1:07 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 7 on (Apr 8, 1:07 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 6 on (Apr 8, 1:07 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 5 on (Apr 8, 1:07 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 43 on (Apr 12, 12:45 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 43 on (Apr 12, 12:45 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
