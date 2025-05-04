@@ -46,19 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (Today, 12:33 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (Today, 12:33 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 44 on (Today, 12:33 AM)
-- 📖 Read [Jin](https://MyAnimeList.net/manga.php?id=11493) Chapter 137 on (Yesterday, 11:59 PM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (Yesterday, 12:33 AM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (Yesterday, 12:33 AM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 44 on (Yesterday, 12:33 AM)
+- 📖 Read [Jin](https://MyAnimeList.net/manga.php?id=11493) Chapter 137 on (May 2, 11:59 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 11 on (Apr 18, 6:41 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 43 on (Apr 12, 12:45 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 43 on (Apr 12, 12:45 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 10 on (Apr 8, 1:07 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 9 on (Apr 8, 1:07 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 8 on (Apr 8, 1:07 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 7 on (Apr 8, 1:07 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 6 on (Apr 8, 1:07 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 5 on (Apr 8, 1:07 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
