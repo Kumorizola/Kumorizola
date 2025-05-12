@@ -46,11 +46,21 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 17 on (17 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 16 on (42 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 15 on (42 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 14 on (42 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 13 on (42 minutes ago)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 12 on (42 minutes ago)
+- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 6 on (47 minutes ago)
+- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 5 on (47 minutes ago)
+- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 4 on (47 minutes ago)
+- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 3 on (47 minutes ago)
+- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 2 on (47 minutes ago)
+- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 1 on (47 minutes ago)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (May 3, 12:33 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (May 3, 12:33 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 44 on (May 3, 12:33 AM)
-- 📖 Read [Jin](https://MyAnimeList.net/manga.php?id=11493) Chapter 137 on (May 2, 11:59 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 11 on (Apr 18, 6:41 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
