@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Azumanga Daiou The Animation](https://MyAnimeList.net/anime.php?id=66) Episode 26 on (29 minutes ago)
+- 📺 Watched [Watashi ni Tenshi ga Maiorita!](https://MyAnimeList.net/anime.php?id=37993) Episode 12 on (30 minutes ago)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 17 on (Today, 12:04 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 16 on (Yesterday, 11:38 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 15 on (Yesterday, 11:38 PM)
@@ -59,8 +61,6 @@
 - 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 2 on (Yesterday, 11:34 PM)
 - 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 1 on (Yesterday, 11:34 PM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (May 3, 12:33 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 80 on (May 3, 12:33 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 44 on (May 3, 12:33 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
