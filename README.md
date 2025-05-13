@@ -46,10 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 1 on (56 minutes ago)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 18 on (7 hours ago)
-- 📺 Watched [Azumanga Daiou The Animation](https://MyAnimeList.net/anime.php?id=66) Episode 26 on (9 hours ago)
-- 📺 Watched [Watashi ni Tenshi ga Maiorita!](https://MyAnimeList.net/anime.php?id=37993) Episode 12 on (9 hours ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (20 minutes ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (20 minutes ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (20 minutes ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 1 on (2 hours ago)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 18 on (8 hours ago)
+- 📺 Watched [Azumanga Daiou The Animation](https://MyAnimeList.net/anime.php?id=66) Episode 26 on (10 hours ago)
+- 📺 Watched [Watashi ni Tenshi ga Maiorita!](https://MyAnimeList.net/anime.php?id=37993) Episode 12 on (10 hours ago)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 17 on (Yesterday, 12:04 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 16 on (May 11, 11:38 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 15 on (May 11, 11:38 PM)
@@ -58,9 +61,6 @@
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 12 on (May 11, 11:38 PM)
 - 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 6 on (May 11, 11:34 PM)
 - 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 5 on (May 11, 11:34 PM)
-- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 4 on (May 11, 11:34 PM)
-- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 3 on (May 11, 11:34 PM)
-- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 2 on (May 11, 11:34 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
