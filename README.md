@@ -46,14 +46,14 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (Today, 3:57 AM)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (Today, 3:57 AM)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (Today, 3:57 AM)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 1 on (Today, 2:26 AM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 18 on (Yesterday, 8:11 PM)
-- 📺 Watched [Azumanga Daiou The Animation](https://MyAnimeList.net/anime.php?id=66) Episode 26 on (Yesterday, 6:15 PM)
-- 📺 Watched [Watashi ni Tenshi ga Maiorita!](https://MyAnimeList.net/anime.php?id=37993) Episode 12 on (Yesterday, 6:15 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 17 on (Yesterday, 12:04 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (Yesterday, 3:57 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (Yesterday, 3:57 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (Yesterday, 3:57 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 1 on (Yesterday, 2:26 AM)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 18 on (May 12, 8:11 PM)
+- 📺 Watched [Azumanga Daiou The Animation](https://MyAnimeList.net/anime.php?id=66) Episode 26 on (May 12, 6:15 PM)
+- 📺 Watched [Watashi ni Tenshi ga Maiorita!](https://MyAnimeList.net/anime.php?id=37993) Episode 12 on (May 12, 6:15 PM)
+- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 17 on (May 12, 12:04 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 16 on (May 11, 11:38 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 15 on (May 11, 11:38 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 14 on (May 11, 11:38 PM)
