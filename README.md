@@ -46,12 +46,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [86 Part 2](https://MyAnimeList.net/anime.php?id=48569) Episode 1 on (44 minutes ago)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 11 on (4 hours ago)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (Yesterday, 3:57 AM)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (Yesterday, 3:57 AM)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (Yesterday, 3:57 AM)
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 1 on (Yesterday, 2:26 AM)
+- 📺 Watched [86 Part 2](https://MyAnimeList.net/anime.php?id=48569) Episode 1 on (2 hours ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 11 on (5 hours ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (May 13, 3:57 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (May 13, 3:57 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (May 13, 3:57 AM)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 1 on (May 13, 2:26 AM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 18 on (May 12, 8:11 PM)
 - 📺 Watched [Azumanga Daiou The Animation](https://MyAnimeList.net/anime.php?id=66) Episode 26 on (May 12, 6:15 PM)
 - 📺 Watched [Watashi ni Tenshi ga Maiorita!](https://MyAnimeList.net/anime.php?id=37993) Episode 12 on (May 12, 6:15 PM)
