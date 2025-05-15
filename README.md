@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 11 on (43 minutes ago)
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 11 on (2 hours ago)
 - 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (Yesterday, 3:57 AM)
 - 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (Yesterday, 3:57 AM)
 - 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (Yesterday, 3:57 AM)
