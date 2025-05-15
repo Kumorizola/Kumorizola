@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 11 on (43 minutes ago)
 - 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 4 on (Yesterday, 3:57 AM)
 - 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 3 on (Yesterday, 3:57 AM)
 - 📺 Watched [86](https://MyAnimeList.net/anime.php?id=41457) Episode 2 on (Yesterday, 3:57 AM)
@@ -60,7 +61,6 @@
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 13 on (May 11, 11:38 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 12 on (May 11, 11:38 PM)
 - 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 6 on (May 11, 11:34 PM)
-- 📺 Watched [Haite Kudasai, Takamine-san](https://MyAnimeList.net/anime.php?id=59457) Episode 5 on (May 11, 11:34 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
