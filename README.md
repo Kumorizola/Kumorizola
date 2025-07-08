@@ -46,6 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Dandadan 2nd Season](https://MyAnimeList.net/anime.php?id=60543) Episode 1 on (16 minutes ago)
+- 📺 Watched [City The Animation](https://MyAnimeList.net/anime.php?id=59898) Episode 1 on (44 minutes ago)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 24 on (Yesterday, 1:24 AM)
 - 📺 Watched [Nichijou](https://MyAnimeList.net/anime.php?id=10165) Episode 26 on (Jun 30, 9:34 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 23 on (Jun 28, 10:30 PM)
@@ -59,8 +61,6 @@
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 85 on (Jun 25, 6:12 PM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 84 on (Jun 25, 6:12 PM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 83 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 82 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 81 on (Jun 25, 6:12 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
