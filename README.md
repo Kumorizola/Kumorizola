@@ -46,6 +46,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Fairy Tail](https://MyAnimeList.net/anime.php?id=6702) Episode 175 on (14 minutes ago)
+- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 5 on (24 minutes ago)
+- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 4 on (24 minutes ago)
+- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 3 on (24 minutes ago)
+- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 2 on (24 minutes ago)
+- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 1 on (24 minutes ago)
 - 📺 Watched [Dandadan 2nd Season](https://MyAnimeList.net/anime.php?id=60543) Episode 1 on (Yesterday, 8:04 PM)
 - 📺 Watched [City The Animation](https://MyAnimeList.net/anime.php?id=59898) Episode 1 on (Yesterday, 7:36 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 24 on (Jul 6, 1:24 AM)
@@ -55,12 +61,6 @@
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 21 on (Jun 28, 9:45 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 20 on (Jun 28, 9:45 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 19 on (Jun 28, 9:45 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 88 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 87 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 86 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 85 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 84 on (Jun 25, 6:12 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 83 on (Jun 25, 6:12 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
