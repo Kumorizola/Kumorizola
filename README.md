@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Fairy Tail](https://MyAnimeList.net/anime.php?id=6702) Episode 175 on (8 hours ago)
+- 📺 Watched [Fairy Tail](https://MyAnimeList.net/anime.php?id=6702) Episode 175 on (9 hours ago)
 - 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 5 on (9 hours ago)
 - 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 4 on (9 hours ago)
 - 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 3 on (9 hours ago)
