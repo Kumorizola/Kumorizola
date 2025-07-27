@@ -55,12 +55,6 @@
 - 📺 Watched [Dandadan 2nd Season](https://MyAnimeList.net/anime.php?id=60543) Episode 1 on (Jul 7, 8:04 PM)
 - 📺 Watched [City The Animation](https://MyAnimeList.net/anime.php?id=59898) Episode 1 on (Jul 7, 7:36 PM)
 - 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 24 on (Jul 6, 1:24 AM)
-- 📺 Watched [Nichijou](https://MyAnimeList.net/anime.php?id=10165) Episode 26 on (Jun 30, 9:34 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 23 on (Jun 28, 10:30 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 22 on (Jun 28, 10:30 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 21 on (Jun 28, 9:45 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 20 on (Jun 28, 9:45 PM)
-- 📺 Watched [Kusuriya no Hitorigoto 2nd Season](https://MyAnimeList.net/anime.php?id=58514) Episode 19 on (Jun 28, 9:45 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
