@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 12 on (18 minutes ago)
+- 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 12 on (1 hour ago)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 11 on (Sep 20, 5:22 PM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 10 on (Sep 14, 12:45 AM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 9 on (Sep 4, 11:56 PM)
