@@ -46,16 +46,11 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Himouto! Umaru-chan R](https://MyAnimeList.net/anime.php?id=35376) Episode 12 on (Yesterday, 10:39 PM)
-- 📺 Watched [Himouto! Umaru-chan](https://MyAnimeList.net/anime.php?id=28825) Episode 12 on (Yesterday, 10:39 PM)
+- 📺 Watched [Himouto! Umaru-chan R](https://MyAnimeList.net/anime.php?id=35376) Episode 12 on (Sep 26, 10:39 PM)
+- 📺 Watched [Himouto! Umaru-chan](https://MyAnimeList.net/anime.php?id=28825) Episode 12 on (Sep 26, 10:39 PM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 12 on (Sep 25, 9:07 AM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 11 on (Sep 20, 5:22 PM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 10 on (Sep 14, 12:45 AM)
-- 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 9 on (Sep 4, 11:56 PM)
-- 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 8 on (Aug 30, 1:05 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 107 on (Sep 4, 11:30 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 10 on (Sep 4, 11:30 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 1 on (Sep 4, 11:30 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
