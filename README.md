@@ -50,7 +50,6 @@
 - 📺 Watched [Himouto! Umaru-chan](https://MyAnimeList.net/anime.php?id=28825) Episode 12 on (Sep 26, 10:39 PM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 12 on (Sep 25, 9:07 AM)
 - 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 11 on (Sep 20, 5:22 PM)
-- 📺 Watched [Dr. Stone: Science Future Part 2](https://MyAnimeList.net/anime.php?id=61322) Episode 10 on (Sep 14, 12:45 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
