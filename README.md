@@ -46,8 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Himouto! Umaru-chan R](https://MyAnimeList.net/anime.php?id=35376) Episode 12 on (Sep 26, 10:39 PM)
-- 📺 Watched [Himouto! Umaru-chan](https://MyAnimeList.net/anime.php?id=28825) Episode 12 on (Sep 26, 10:39 PM)
+
 
 <!-- MAL_ACTIVITY:end -->
 
