@@ -46,7 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 1 on (21 minutes ago)
+- 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 3 on (16 minutes ago)
+- 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 2 on (16 minutes ago)
+- 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 1 on (1 hour ago)
 
 <!-- MAL_ACTIVITY:end -->
 
