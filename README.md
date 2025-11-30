@@ -46,8 +46,6 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 204 on (5 hours ago)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 20 on (5 hours ago)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 8 on (Nov 25, 2:25 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 7 on (Nov 25, 2:25 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 6 on (Nov 25, 2:25 AM)
@@ -56,6 +54,8 @@
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 3 on (Nov 25, 12:13 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 2 on (Nov 25, 12:13 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 1 on (Nov 24, 11:00 PM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 204 on (6 hours ago)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 20 on (6 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
