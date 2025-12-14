@@ -49,6 +49,8 @@
 - 📺 Watched [One Punch Man](https://MyAnimeList.net/anime.php?id=30276) Episode 12 on (Dec 5, 5:34 PM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 9 on (Dec 5, 5:33 PM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 218 on (Dec 5, 5:50 AM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 204 on (Nov 29, 6:18 PM)
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 20 on (Nov 29, 6:18 PM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 8 on (Nov 25, 2:25 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 7 on (Nov 25, 2:25 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 6 on (Nov 25, 2:25 AM)
@@ -57,8 +59,6 @@
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 3 on (Nov 25, 12:13 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 2 on (Nov 25, 12:13 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 1 on (Nov 24, 11:00 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 204 on (Nov 29, 6:18 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 20 on (Nov 29, 6:18 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
