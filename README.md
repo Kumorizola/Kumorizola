@@ -46,15 +46,13 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 13 on (Yesterday, 1:51 AM)
-- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 13 on (Yesterday, 1:51 AM)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 13 on (Dec 26, 1:51 AM)
+- 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 13 on (Dec 26, 1:51 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 219 on (Dec 22, 5:10 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 10 on (Dec 16, 10:15 PM)
 - 📺 Watched [One Punch Man](https://MyAnimeList.net/anime.php?id=30276) Episode 12 on (Dec 5, 5:34 PM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 9 on (Dec 5, 5:33 PM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 218 on (Dec 5, 5:50 AM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 204 on (Nov 29, 6:18 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 20 on (Nov 29, 6:18 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
