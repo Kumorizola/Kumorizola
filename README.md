@@ -46,15 +46,12 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Hyakuemu.](https://MyAnimeList.net/anime.php?id=58919) Episode 1 on (Today, 5:34 AM)
+- 📺 Watched [Hyakuemu.](https://MyAnimeList.net/anime.php?id=58919) Episode 1 on (Yesterday, 5:34 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 13 on (Dec 29, 2025 6:12 AM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 13 on (Dec 26, 2025 1:51 AM)
 - 📺 Watched [Ore dake Level Up na Ken Season 2: Arise from the Shadow](https://MyAnimeList.net/anime.php?id=58567) Episode 13 on (Dec 26, 2025 1:51 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 219 on (Dec 22, 2025 5:10 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 10 on (Dec 16, 2025 10:15 PM)
-- 📺 Watched [One Punch Man](https://MyAnimeList.net/anime.php?id=30276) Episode 12 on (Dec 5, 2025 5:34 PM)
-- 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 9 on (Dec 5, 2025 5:33 PM)
-- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 218 on (Dec 5, 2025 5:50 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
