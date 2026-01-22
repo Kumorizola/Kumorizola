@@ -47,8 +47,8 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 1 on (2 hours ago)
-- 📺 Watched [Sousou no Frieren 2nd Season](https://MyAnimeList.net/anime.php?id=59978) Episode 1 on (3 hours ago)
-- 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 2 on (3 hours ago)
+- 📺 Watched [Sousou no Frieren 2nd Season](https://MyAnimeList.net/anime.php?id=59978) Episode 1 on (4 hours ago)
+- 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 2 on (4 hours ago)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 1 on (Jan 10, 2:06 AM)
 - 📺 Watched [Hyakuemu.](https://MyAnimeList.net/anime.php?id=58919) Episode 1 on (Jan 3, 5:34 AM)
 - 📺 Watched [Spy x Family Season 3](https://MyAnimeList.net/anime.php?id=59027) Episode 13 on (Dec 29, 2025 6:12 AM)
