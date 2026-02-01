@@ -46,8 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 3 on (11 hours ago)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 2 on (11 hours ago)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 3 on (Yesterday, 9:22 PM)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 2 on (Yesterday, 9:22 PM)
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 1 on (Jan 21, 9:08 PM)
 - 📺 Watched [Sousou no Frieren 2nd Season](https://MyAnimeList.net/anime.php?id=59978) Episode 1 on (Jan 21, 7:52 PM)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 2 on (Jan 21, 7:52 PM)
