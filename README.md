@@ -49,9 +49,6 @@
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 4 on (Feb 7, 11:26 PM)
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 3 on (Jan 31, 9:22 PM)
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 2 on (Jan 31, 9:22 PM)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 1 on (Jan 21, 9:08 PM)
-- 📺 Watched [Sousou no Frieren 2nd Season](https://MyAnimeList.net/anime.php?id=59978) Episode 1 on (Jan 21, 7:52 PM)
-- 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 2 on (Jan 21, 7:52 PM)
 
 <!-- MAL_ACTIVITY:end -->
 
