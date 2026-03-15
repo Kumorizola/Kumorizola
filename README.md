@@ -47,10 +47,6 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 7 on (Mar 1, 6:53 AM)
-- 📺 Watched [Sousou no Frieren 2nd Season](https://MyAnimeList.net/anime.php?id=59978) Episode 3 on (Feb 17, 8:49 PM)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 6 on (Feb 17, 8:49 PM)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 5 on (Feb 17, 8:49 PM)
-- 📺 Watched [Sousou no Frieren 2nd Season](https://MyAnimeList.net/anime.php?id=59978) Episode 2 on (Feb 15, 2:52 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
