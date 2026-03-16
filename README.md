@@ -46,9 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 10 on (2 hours ago)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 9 on (2 hours ago)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 8 on (2 hours ago)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 10 on (3 hours ago)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 9 on (3 hours ago)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 8 on (3 hours ago)
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 7 on (Mar 1, 6:53 AM)
 
 <!-- MAL_ACTIVITY:end -->
