@@ -50,7 +50,6 @@
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 10 on (Mar 15, 11:44 PM)
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 9 on (Mar 15, 11:44 PM)
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 8 on (Mar 15, 11:44 PM)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 7 on (Mar 1, 6:53 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
