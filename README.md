@@ -46,7 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-
+- 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 222 on (2 hours ago)
 
 <!-- MAL_ACTIVITY:end -->
 
