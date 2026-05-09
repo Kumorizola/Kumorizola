@@ -46,7 +46,8 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 12 on (7 hours ago)
+- 📖 Read [Jigokuraku](https://MyAnimeList.net/manga.php?id=112318) Chapter 128 on (58 minutes ago)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 12 on (8 hours ago)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 222 on (May 4, 12:46 AM)
 
 <!-- MAL_ACTIVITY:end -->
