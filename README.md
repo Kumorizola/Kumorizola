@@ -47,7 +47,7 @@
 <!-- MAL_ACTIVITY:start -->
 
 - 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 12 on (May 8, 6:47 PM)
-- 📖 Read [Jigokuraku](https://MyAnimeList.net/manga.php?id=112318) Chapter 128 on (Yesterday, 2:08 AM)
+- 📖 Read [Jigokuraku](https://MyAnimeList.net/manga.php?id=112318) Chapter 128 on (May 9, 2:08 AM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 222 on (May 4, 12:46 AM)
 
 <!-- MAL_ACTIVITY:end -->
