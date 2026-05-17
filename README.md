@@ -46,10 +46,10 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo! 2](https://MyAnimeList.net/anime.php?id=32937) Episode 10 on (5 hours ago)
-- 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo!](https://MyAnimeList.net/anime.php?id=30831) Episode 10 on (5 hours ago)
-- 📺 Watched [Grand Blue Season 2](https://MyAnimeList.net/anime.php?id=59986) Episode 12 on (10 hours ago)
-- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 12 on (10 hours ago)
+- 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo! 2](https://MyAnimeList.net/anime.php?id=32937) Episode 10 on (6 hours ago)
+- 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo!](https://MyAnimeList.net/anime.php?id=30831) Episode 10 on (6 hours ago)
+- 📺 Watched [Grand Blue Season 2](https://MyAnimeList.net/anime.php?id=59986) Episode 12 on (12 hours ago)
+- 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 12 on (12 hours ago)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 12 on (May 14, 5:37 AM)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 4 on (May 14, 4:04 AM)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 3 on (May 14, 4:04 AM)
