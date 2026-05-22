@@ -46,6 +46,7 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
+- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://MyAnimeList.net/anime.php?id=51179) Episode 12 on (3 hours ago)
 - 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz](https://MyAnimeList.net/anime.php?id=55818) Episode 1 on (Yesterday, 2:49 AM)
 - 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo! 2](https://MyAnimeList.net/anime.php?id=32937) Episode 10 on (May 17, 6:04 AM)
 - 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo!](https://MyAnimeList.net/anime.php?id=30831) Episode 10 on (May 17, 6:04 AM)
