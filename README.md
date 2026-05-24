@@ -46,9 +46,9 @@
  <h2> My Recent MAL Activity</h2>
 <!-- MAL_ACTIVITY:start -->
 
-- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=55888) Episode 12 on (Today, 9:29 AM)
-- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=55888) Episode 1 on (Today, 4:55 AM)
-- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://MyAnimeList.net/anime.php?id=51179) Episode 12 on (Yesterday, 6:08 AM)
+- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=55888) Episode 12 on (Yesterday, 9:29 AM)
+- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2](https://MyAnimeList.net/anime.php?id=55888) Episode 1 on (Yesterday, 4:55 AM)
+- 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu](https://MyAnimeList.net/anime.php?id=51179) Episode 12 on (May 22, 6:08 AM)
 - 📺 Watched [Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz](https://MyAnimeList.net/anime.php?id=55818) Episode 1 on (May 21, 2:49 AM)
 - 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo! 2](https://MyAnimeList.net/anime.php?id=32937) Episode 10 on (May 17, 6:04 AM)
 - 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo!](https://MyAnimeList.net/anime.php?id=30831) Episode 10 on (May 17, 6:04 AM)
@@ -57,8 +57,8 @@
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 12 on (May 14, 5:37 AM)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 4 on (May 14, 4:04 AM)
 - 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 3 on (May 14, 4:04 AM)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 12 on (May 8, 6:47 PM)
 - 📖 Read [Jigokuraku](https://MyAnimeList.net/manga.php?id=112318) Chapter 128 on (May 9, 2:08 AM)
+- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 12 on (May 8, 6:47 PM)
 - 📖 Read [The Greatest Estate Developer](https://MyAnimeList.net/manga.php?id=147272) Chapter 222 on (May 4, 12:46 AM)
 
 <!-- MAL_ACTIVITY:end -->
