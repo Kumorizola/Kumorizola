@@ -55,11 +55,6 @@
 - 📺 Watched [Kono Subarashii Sekai ni Shukufuku wo!](https://MyAnimeList.net/anime.php?id=30831) Episode 10 on (May 17, 6:04 AM)
 - 📺 Watched [Grand Blue Season 2](https://MyAnimeList.net/anime.php?id=59986) Episode 12 on (May 17, 12:28 AM)
 - 📺 Watched [Grand Blue](https://MyAnimeList.net/anime.php?id=37105) Episode 12 on (May 17, 12:28 AM)
-- 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 12 on (May 14, 5:37 AM)
-- 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 4 on (May 14, 4:04 AM)
-- 📺 Watched [Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku](https://MyAnimeList.net/anime.php?id=56009) Episode 3 on (May 14, 4:04 AM)
-- 📺 Watched [Jigokuraku 2nd Season](https://MyAnimeList.net/anime.php?id=55825) Episode 12 on (May 8, 6:47 PM)
-- 📖 Read [Jigokuraku](https://MyAnimeList.net/manga.php?id=112318) Chapter 128 on (May 9, 2:08 AM)
 
 <!-- MAL_ACTIVITY:end -->
 
